@@ -1,0 +1,59 @@
+about:
+  description: Fast linters runner for Go
+  license: GPL-3.0
+  homepage: https://golangci-lint.run
+  head: 5a80f04
+  archived: false
+  latestVersion: v2.13.2
+  collectedAt: 2026-08-29T07:28:42Z
+timeline:
+  created: 2018-05-04
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-27
+popularity:
+  star: 19330
+  watcher: 102
+  fork: 1622
+  release: 192
+  contributor: 368
+  pullRequest: 687
+  issue: 1976
+language:
+  Go: 1161386
+  Shell: 15633
+  Makefile: 3725
+  Dockerfile: 1149
+totalLine: 1181893
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 3
+    mergedPR: 49
+    openPR: 2
+    closedIssue: 22
+    openIssue: 2
+    commit: 55
+  last90d:
+    since: 2026-05-31
+    release: 3
+    mergedPR: 95
+    openPR: 2
+    closedIssue: 35
+    openIssue: 4
+    commit: 99
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 210
+    openPR: 3
+    closedIssue: 72
+    openIssue: 13
+    commit: 231
+  last360d:
+    since: 2025-09-03
+    release: 22
+    mergedPR: 411
+    openPR: 6
+    closedIssue: 148
+    openIssue: 14
+    commit: 450
