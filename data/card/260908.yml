@@ -5,13 +5,13 @@ about:
   head: 238321a
   archived: false
   latestVersion: "v2.13.2"
-  collectedAt: 2026-09-08T03:03:23Z
+  collectedAt: 2026-09-08T05:43:53Z
 timeline:
   created: 2018-05-04
   lastCommit: 2026-09-08
   lastRelease: 2026-08-27
 popularity:
-  star: 19357
+  star: 19358
   watcher: 108
   fork: 1621
   release: 192
@@ -82,7 +82,7 @@ total:
   commit: 4213
 ---
 path: /home/runner/.x-repo/github.com/golangci/golangci-lint
-collectedAt: 2026-09-08T03:03:31Z
+collectedAt: 2026-09-08T05:44:01Z
 loc:
   Json:
     code: 143761
