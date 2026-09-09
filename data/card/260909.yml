@@ -2,25 +2,25 @@ about:
   description: "Fast linters runner for Go"
   license: GPL-3.0
   homepage: https://golangci-lint.run
-  head: ccf56c6
+  head: 219f1ff
   archived: false
   latestVersion: "v2.13.2"
   latestRelease: "v2.13.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:53:09Z
+  collectedAt: 2026-09-09T20:19:44Z
 timeline:
   created: 2018-05-04
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-08-27
   lastRelease: 2026-08-27
   lastPrerelease: 
 popularity:
-  star: 19359
+  star: 19361
   watcher: 108
-  fork: 1621
+  fork: 1622
   release: 192
   contributor: 368
-  pullRequest: 4337
+  pullRequest: 4343
   issue: 1978
 language:
   Go: 1161386
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 3
-    mergedPR: 48
+    mergedPR: 54
     openPR: 7
     closedIssue: 17
     openIssue: 2
-    commit: 55
+    commit: 61
   last60d:
     since: 2026-07-11
     release: 3
-    mergedPR: 71
+    mergedPR: 77
     openPR: 7
     closedIssue: 25
     openIssue: 5
-    commit: 73
+    commit: 79
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 94
+    mergedPR: 100
     openPR: 7
     closedIssue: 30
     openIssue: 5
-    commit: 96
+    commit: 102
   last180d:
     since: 2026-03-13
     release: 7
-    mergedPR: 204
+    mergedPR: 210
     openPR: 8
     closedIssue: 65
     openIssue: 12
-    commit: 223
+    commit: 229
   last360d:
     since: 2025-09-14
     release: 22
-    mergedPR: 400
+    mergedPR: 406
     openPR: 11
     closedIssue: 146
     openIssue: 15
-    commit: 440
+    commit: 446
   last720d:
     since: 2024-09-19
     release: 52
-    mergedPR: 1075
+    mergedPR: 1081
     openPR: 13
     closedIssue: 318
     openIssue: 21
-    commit: 1172
+    commit: 1178
 total:
   release: 192
-  mergedPR: 3643
+  mergedPR: 3649
   openPR: 29
   closedIssue: 1879
   openIssue: 99
-  commit: 4215
+  commit: 4221
 ---
 path: /home/runner/.x-repo/github.com/golangci/golangci-lint
-collectedAt: 2026-09-09T05:53:16Z
+collectedAt: 2026-09-09T20:19:53Z
 loc:
   Json:
     code: 143761
@@ -94,7 +94,7 @@ loc:
     blanks: 2
     files: 44
   Go:
-    code: 55868
+    code: 55869
     comments: 5508
     blanks: 12338
     files: 1101
@@ -154,7 +154,7 @@ loc:
     blanks: 0
     files: 3
 total:
-  code: 212655
+  code: 212656
   comments: 10686
   blanks: 14336
   files: 1750
