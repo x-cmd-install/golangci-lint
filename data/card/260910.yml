@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.13.2"
   latestRelease: "v2.13.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:07:17Z
+  collectedAt: 2026-09-10T22:40:01Z
 timeline:
   created: 2018-05-04
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 4221
 ---
 path: /home/runner/.x-repo/github.com/golangci/golangci-lint
-collectedAt: 2026-09-10T21:07:28Z
+collectedAt: 2026-09-10T22:40:11Z
 loc:
   Json:
     code: 143761
