@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,365 · **Forks**: 1,621 · **Open issues**: 1,978 · **Contributors**: 368
+- **Stars**: 19,371 · **Forks**: 1,620 · **Open issues**: 1,978 · **Contributors**: 368
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 53 | 7 | 16 | 2 | 61 |
-| last60d | 2026-07-14 | 3 | 72 | 7 | 25 | 4 | 79 |
-| 90d | 2026-06-14 | 3 | 96 | 7 | 29 | 5 | 102 |
-| last180d | 2026-03-16 | 7 | 210 | 8 | 64 | 12 | 229 |
-| 360d | 2025-09-17 | 22 | 403 | 11 | 144 | 15 | 446 |
-| last720d | 2024-09-22 | 52 | 1078 | 13 | 317 | 21 | 1178 |
+| 30d | 2026-08-14 | 3 | 53 | 7 | 15 | 2 | 61 |
+| last60d | 2026-07-15 | 3 | 71 | 7 | 25 | 3 | 79 |
+| 90d | 2026-06-15 | 3 | 96 | 7 | 29 | 5 | 102 |
+| last180d | 2026-03-17 | 7 | 208 | 8 | 63 | 12 | 229 |
+| 360d | 2025-09-18 | 22 | 402 | 11 | 144 | 15 | 446 |
+| last720d | 2024-09-23 | 52 | 1078 | 13 | 317 | 21 | 1176 |
 
 ## Release assets
 
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:37:55Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:58:18Z._
