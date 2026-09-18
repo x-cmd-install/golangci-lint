@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.13.2` (2026-08-27)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-17
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,377 · **Forks**: 1,623 · **Open issues**: 1,978 · **Contributors**: 368
+- **Stars**: 19,385 · **Forks**: 1,623 · **Open issues**: 1,980 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 3650 · **Open PRs**: 30 · **Closed issues**: 1879 · **Open issues**: 99 · **Commits**: 4222
+- **Releases**: 192 · **Merged PRs**: 3651 · **Open PRs**: 30 · **Closed issues**: 1881 · **Open issues**: 99 · **Commits**: 4223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 3 | 51 | 8 | 14 | 2 | 35 |
-| last60d | 2026-07-19 | 3 | 72 | 8 | 26 | 3 | 78 |
-| 90d | 2026-06-19 | 3 | 95 | 8 | 29 | 5 | 98 |
-| last180d | 2026-03-21 | 7 | 205 | 9 | 63 | 12 | 216 |
-| 360d | 2025-09-22 | 21 | 399 | 11 | 143 | 15 | 439 |
-| last720d | 2024-09-27 | 52 | 1071 | 14 | 314 | 21 | 1172 |
+| 30d | 2026-08-19 | 3 | 42 | 8 | 15 | 2 | 36 |
+| last60d | 2026-07-20 | 3 | 73 | 8 | 28 | 3 | 79 |
+| 90d | 2026-06-20 | 3 | 96 | 8 | 31 | 5 | 99 |
+| last180d | 2026-03-22 | 7 | 202 | 9 | 65 | 12 | 217 |
+| 360d | 2025-09-23 | 21 | 400 | 11 | 145 | 15 | 440 |
+| last720d | 2024-09-28 | 52 | 1072 | 14 | 316 | 21 | 1173 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:19:36Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:02Z._
