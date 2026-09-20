@@ -4,7 +4,7 @@
 
 Fast linters runner for Go
 
-![golangci-lint](https://repo.x-cmd.io/golangci-lint.svg)
+[![x-cmd/install — golangci-lint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/golangci-lint.svg)](https://x-cmd.com/install/golangci-lint)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,385 · **Forks**: 1,623 · **Open issues**: 1,980 · **Contributors**: 368
+- **Stars**: 19,390 · **Forks**: 1,623 · **Open issues**: 1,982 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 192 · **Merged PRs**: 3651 · **Open PRs**: 30 · **Closed issues**: 1881 · **Open issues**: 99 · **Commits**: 4223
+- **Releases**: 192 · **Merged PRs**: 3651 · **Open PRs**: 30 · **Closed issues**: 1882 · **Open issues**: 100 · **Commits**: 4223
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 42 | 8 | 15 | 2 | 36 |
-| last60d | 2026-07-20 | 3 | 73 | 8 | 28 | 3 | 79 |
-| 90d | 2026-06-20 | 3 | 96 | 8 | 31 | 5 | 99 |
-| last180d | 2026-03-22 | 7 | 202 | 9 | 65 | 12 | 217 |
-| 360d | 2025-09-23 | 21 | 400 | 11 | 145 | 15 | 440 |
-| last720d | 2024-09-28 | 52 | 1072 | 14 | 316 | 21 | 1173 |
+| 30d | 2026-08-21 | 1 | 32 | 7 | 11 | 2 | 36 |
+| last60d | 2026-07-22 | 3 | 71 | 8 | 28 | 4 | 79 |
+| 90d | 2026-06-22 | 3 | 93 | 8 | 32 | 6 | 99 |
+| last180d | 2026-03-24 | 6 | 202 | 9 | 66 | 13 | 217 |
+| 360d | 2025-09-25 | 21 | 400 | 11 | 146 | 16 | 440 |
+| last720d | 2024-09-30 | 52 | 1072 | 14 | 317 | 22 | 1169 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:00:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:05:20Z._

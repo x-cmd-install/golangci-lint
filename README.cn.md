@@ -4,7 +4,7 @@
 
 Fast linters runner for Go
 
-![golangci-lint](https://repo.x-cmd.io/golangci-lint.svg?lang=zh)
+[![x-cmd/install — golangci-lint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/golangci-lint.svg?lang=zh)](https://x-cmd.com/install/golangci-lint)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install golangci-lint
 
 ## 流行度
 
-- **Star**: 19,385 · **Fork**: 1,623 · **开放 issue**: 1,980 · **贡献者**: 368
+- **Star**: 19,390 · **Fork**: 1,623 · **开放 issue**: 1,982 · **贡献者**: 368
 
 ## 累计统计
 
-- **发布数**: 192 · **已合并 PR**: 3651 · **开放 PR**: 30 · **已关闭 issue**: 1881 · **开放 issue**: 99 · **提交数**: 4223
+- **发布数**: 192 · **已合并 PR**: 3651 · **开放 PR**: 30 · **已关闭 issue**: 1882 · **开放 issue**: 100 · **提交数**: 4223
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 42 | 8 | 15 | 2 | 36 |
-| last60d | 2026-07-20 | 3 | 73 | 8 | 28 | 3 | 79 |
-| 90d | 2026-06-20 | 3 | 96 | 8 | 31 | 5 | 99 |
-| last180d | 2026-03-22 | 7 | 202 | 9 | 65 | 12 | 217 |
-| 360d | 2025-09-23 | 21 | 400 | 11 | 145 | 15 | 440 |
-| last720d | 2024-09-28 | 52 | 1072 | 14 | 316 | 21 | 1173 |
+| 30d | 2026-08-21 | 1 | 32 | 7 | 11 | 2 | 36 |
+| last60d | 2026-07-22 | 3 | 71 | 8 | 28 | 4 | 79 |
+| 90d | 2026-06-22 | 3 | 93 | 8 | 32 | 6 | 99 |
+| last180d | 2026-03-24 | 6 | 202 | 9 | 66 | 13 | 217 |
+| 360d | 2025-09-25 | 21 | 400 | 11 | 146 | 16 | 440 |
+| last720d | 2024-09-30 | 52 | 1072 | 14 | 317 | 22 | 1169 |
 
 ## Release 资产
 
@@ -157,4 +157,4 @@ golangci-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:00:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:05:21Z._
