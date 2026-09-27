@@ -14,12 +14,12 @@ x install golangci-lint
 
 ## Code insight
 
-Total: **217,288** lines of code across **1684** files in the top 5 languages.
+Total: **217,289** lines of code across **1684** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 149,383 | 0 | 2 | 45 |
-| Go | 55,696 | 5,503 | 12,329 | 1101 |
+| Go | 55,697 | 5,503 | 12,330 | 1101 |
 | Yaml | 8,584 | 499 | 429 | 505 |
 | Svg | 2,326 | 0 | 0 | 9 |
 | Html | 561 | 0 | 112 | 24 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-26
 - **Assets in release**: 78
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3670 · **Open PRs**: 22 · **Closed issues**: 1890 · **Open issues**: 98 · **Commits**: 4243
+- **Releases**: 193 · **Merged PRs**: 3671 · **Open PRs**: 22 · **Closed issues**: 1891 · **Open issues**: 97 · **Commits**: 4244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 2 | 41 | 0 | 11 | 2 | 50 |
-| last60d | 2026-07-28 | 4 | 85 | 0 | 33 | 4 | 95 |
-| 90d | 2026-06-28 | 4 | 107 | 0 | 39 | 5 | 114 |
-| last180d | 2026-03-30 | 7 | 214 | 1 | 69 | 7 | 231 |
-| 360d | 2025-10-01 | 22 | 412 | 3 | 151 | 15 | 453 |
-| last720d | 2024-10-06 | 53 | 1084 | 6 | 322 | 21 | 1184 |
+| 30d | 2026-08-28 | 1 | 35 | 0 | 12 | 1 | 0 |
+| last60d | 2026-07-29 | 4 | 86 | 0 | 34 | 3 | 0 |
+| 90d | 2026-06-29 | 4 | 108 | 0 | 40 | 4 | 0 |
+| last180d | 2026-03-31 | 7 | 215 | 1 | 70 | 6 | 0 |
+| 360d | 2025-10-02 | 22 | 413 | 3 | 152 | 14 | 0 |
+| last720d | 2024-10-07 | 53 | 1084 | 6 | 323 | 20 | 1182 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:48:31Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:19:46Z._
