@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,399 · **Forks**: 1,629 · **Open issues**: 1,989 · **Contributors**: 368
+- **Stars**: 19,398 · **Forks**: 1,630 · **Open issues**: 1,989 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3673 · **Open PRs**: 23 · **Closed issues**: 1892 · **Open issues**: 97 · **Commits**: 4246
+- **Releases**: 193 · **Merged PRs**: 3674 · **Open PRs**: 23 · **Closed issues**: 1892 · **Open issues**: 97 · **Commits**: 4247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 35 | 1 | 13 | 1 | 37 |
-| last60d | 2026-07-31 | 4 | 88 | 1 | 35 | 2 | 93 |
-| 90d | 2026-07-01 | 4 | 108 | 1 | 41 | 4 | 110 |
-| last180d | 2026-04-02 | 7 | 213 | 2 | 67 | 6 | 226 |
-| 360d | 2025-10-04 | 22 | 415 | 4 | 152 | 14 | 453 |
-| last720d | 2024-10-09 | 53 | 1084 | 7 | 324 | 20 | 1181 |
+| 30d | 2026-08-31 | 1 | 36 | 1 | 13 | 1 | 38 |
+| last60d | 2026-08-01 | 4 | 88 | 1 | 35 | 2 | 94 |
+| 90d | 2026-07-02 | 4 | 109 | 1 | 41 | 4 | 111 |
+| last180d | 2026-04-03 | 7 | 210 | 2 | 67 | 6 | 227 |
+| 360d | 2025-10-05 | 22 | 413 | 4 | 151 | 14 | 454 |
+| last720d | 2024-10-10 | 53 | 1084 | 7 | 322 | 20 | 1182 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:41:36Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:32:38Z._
