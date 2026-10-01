@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8413,
       "digest": "sha256:7b4eeb888873ac45ec58a640c3243c43a3540e097f6c4410efd2bdb306340023",
-      "download_count": 33627,
+      "download_count": 42464,
       "created_at": "2026-09-24T11:27:53Z",
       "updated_at": "2026-09-24T11:27:54Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 15922435,
       "digest": "sha256:a5667c1c3536be1740133213e1e822bfb8f0d98ea12903174d6d5f635e4ed68d",
-      "download_count": 1016,
+      "download_count": 1230,
       "created_at": "2026-09-24T11:27:39Z",
       "updated_at": "2026-09-24T11:27:40Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14792130,
       "digest": "sha256:5ef5f36a7147e91dc58ef9ef4d11bb7bad5ead0c76eb6c01327a73c641d1dcc3",
-      "download_count": 11478,
+      "download_count": 14466,
       "created_at": "2026-09-24T11:27:34Z",
       "updated_at": "2026-09-24T11:27:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15491758,
       "digest": "sha256:5224b2e8637cb9036025d1b028c4b509c7fc7857708840e31b5a79743762d9bf",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-09-24T11:27:35Z",
       "updated_at": "2026-09-24T11:27:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-amd64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 14502663,
       "digest": "sha256:72e168d307e03c974ded75ee91f427c1395646915fe4f2bfe63731c3b935c2eb",
-      "download_count": 39,
+      "download_count": 43,
       "created_at": "2026-09-24T11:27:41Z",
       "updated_at": "2026-09-24T11:27:42Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-386.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 15521400,
       "digest": "sha256:b6b5bfcf3cef143cb0974288c60af804d0f42053aa8bb4383fdd2a5457bd8f1a",
-      "download_count": 266,
+      "download_count": 316,
       "created_at": "2026-09-24T11:27:43Z",
       "updated_at": "2026-09-24T11:27:44Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 15527835,
       "digest": "sha256:aa6d365379768f7f9e6e26a76ac23080ccc78244b3efa1d540bb8dcd80ce38dd",
-      "download_count": 36,
+      "download_count": 42,
       "created_at": "2026-09-24T11:27:45Z",
       "updated_at": "2026-09-24T11:27:46Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.rpm"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 15519402,
       "digest": "sha256:ab90aeb7b066f92a33415b638a50fe5344bbb75a0d32ad30cc248d88f81032ab",
-      "download_count": 180037,
+      "download_count": 221284,
       "created_at": "2026-09-24T11:27:41Z",
       "updated_at": "2026-09-24T11:27:42Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 337766,
       "digest": "sha256:0cff1e23f6d9fe322626f9fbeef3b1ffaebaa180cdd8311ee97495774e3fcfbb",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-09-24T11:27:53Z",
       "updated_at": "2026-09-24T11:27:53Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.tar.gz.sbom.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 14080866,
       "digest": "sha256:ee9d01466076acbf9945cbd72cb521f86025ae3e1e2da29b523843f0b3506d8e",
-      "download_count": 41,
+      "download_count": 44,
       "created_at": "2026-09-24T11:27:44Z",
       "updated_at": "2026-09-24T11:27:44Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.deb"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 14079210,
       "digest": "sha256:ee7ec5f3453d15ddf106fae5a4d6c71737712348a979d1fe9cd52ec7ea299bae",
-      "download_count": 17256,
+      "download_count": 22608,
       "created_at": "2026-09-24T11:27:36Z",
       "updated_at": "2026-09-24T11:27:37Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.tar.gz"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 14632418,
       "digest": "sha256:20d75528b7b7fa37dd83101b0be8b349e4f65f6e970d5fea0a96c7959e6e375a",
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2026-09-24T11:27:35Z",
       "updated_at": "2026-09-24T11:27:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv6.tar.gz"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 14612415,
       "digest": "sha256:2b5a9ef85855cdc21506e0b0e08d0f9cfab0bb1339b61bba337e864a40da0518",
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2026-09-24T11:27:37Z",
       "updated_at": "2026-09-24T11:27:38Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv7.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 14231315,
       "digest": "sha256:5189f8dbe1afb8fb394a9c3c29513c2e3a38790405146397e2ab08e243a133cf",
-      "download_count": 24,
+      "download_count": 32,
       "created_at": "2026-09-24T11:27:38Z",
       "updated_at": "2026-09-24T11:27:39Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-ppc64le.tar.gz"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 15054467,
       "digest": "sha256:788d7f54c9d141be5942e9c9ca8a56bbea44e5c4dbc2e774e54278bd930e8379",
-      "download_count": 28,
+      "download_count": 40,
       "created_at": "2026-09-24T11:27:42Z",
       "updated_at": "2026-09-24T11:27:43Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-s390x.tar.gz"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 15107363,
       "digest": "sha256:deef62dbace0236fa67f449b3422ce4cefc82d815c2abe5b66e85a8fbf8aca84",
-      "download_count": 81,
+      "download_count": 84,
       "created_at": "2026-09-24T11:27:40Z",
       "updated_at": "2026-09-24T11:27:41Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-386.zip"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 15834994,
       "digest": "sha256:b15f903d1649283a2ab6e8d2f0c317eaf1f9f6b3763950e7e8b7e72a43dd724f",
-      "download_count": 7071,
+      "download_count": 8407,
       "created_at": "2026-09-24T11:27:41Z",
       "updated_at": "2026-09-24T11:27:41Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-amd64.zip"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 14206658,
       "digest": "sha256:6399496aef883e5d2f77ea93e6e54fdd05bc2695f64071d8de0b0579cad92274",
-      "download_count": 138,
+      "download_count": 143,
       "created_at": "2026-09-24T11:27:35Z",
       "updated_at": "2026-09-24T11:27:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-arm64.zip"
