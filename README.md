@@ -14,12 +14,12 @@ x install golangci-lint
 
 ## Code insight
 
-Total: **217,290** lines of code across **1684** files in the top 5 languages.
+Total: **217,299** lines of code across **1684** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 149,383 | 0 | 2 | 45 |
-| Go | 55,698 | 5,503 | 12,330 | 1101 |
+| Go | 55,707 | 5,503 | 12,333 | 1101 |
 | Yaml | 8,584 | 499 | 429 | 505 |
 | Svg | 2,326 | 0 | 0 | 9 |
 | Html | 561 | 0 | 112 | 24 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,401 · **Forks**: 1,630 · **Open issues**: 1,990 · **Contributors**: 368
+- **Stars**: 19,403 · **Forks**: 1,630 · **Open issues**: 1,991 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3675 · **Open PRs**: 23 · **Closed issues**: 1893 · **Open issues**: 97 · **Commits**: 4249
+- **Releases**: 193 · **Merged PRs**: 3679 · **Open PRs**: 23 · **Closed issues**: 1893 · **Open issues**: 98 · **Commits**: 4253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 1 | 35 | 1 | 13 | 1 | 40 |
-| last60d | 2026-08-02 | 4 | 88 | 1 | 36 | 2 | 96 |
-| 90d | 2026-07-03 | 4 | 109 | 1 | 41 | 4 | 113 |
-| last180d | 2026-04-04 | 7 | 211 | 2 | 68 | 6 | 229 |
-| 360d | 2025-10-06 | 22 | 414 | 4 | 152 | 14 | 456 |
-| last720d | 2024-10-11 | 53 | 1085 | 7 | 323 | 20 | 1184 |
+| 30d | 2026-09-02 | 1 | 39 | 1 | 13 | 2 | 44 |
+| last60d | 2026-08-03 | 4 | 91 | 1 | 34 | 3 | 100 |
+| 90d | 2026-07-04 | 4 | 113 | 1 | 41 | 5 | 117 |
+| last180d | 2026-04-05 | 7 | 215 | 2 | 67 | 7 | 233 |
+| 360d | 2025-10-07 | 22 | 418 | 4 | 152 | 15 | 460 |
+| last720d | 2024-10-12 | 53 | 1089 | 7 | 323 | 21 | 1187 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:54:39Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:32:15Z._
