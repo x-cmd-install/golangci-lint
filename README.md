@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-07
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,420 · **Forks**: 1,637 · **Open issues**: 1,993 · **Contributors**: 368
+- **Stars**: 19,430 · **Forks**: 1,637 · **Open issues**: 1,993 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3682 · **Open PRs**: 25 · **Closed issues**: 1896 · **Open issues**: 97 · **Commits**: 4256
+- **Releases**: 193 · **Merged PRs**: 3684 · **Open PRs**: 28 · **Closed issues**: 1896 · **Open issues**: 97 · **Commits**: 4258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 34 | 3 | 15 | 1 | 34 |
-| last60d | 2026-08-08 | 4 | 88 | 3 | 33 | 2 | 97 |
-| 90d | 2026-07-09 | 4 | 111 | 3 | 43 | 4 | 115 |
-| last180d | 2026-04-10 | 7 | 218 | 4 | 70 | 6 | 228 |
-| 360d | 2025-10-12 | 22 | 413 | 6 | 154 | 14 | 443 |
-| last720d | 2024-10-17 | 53 | 1087 | 9 | 324 | 20 | 1189 |
+| 30d | 2026-09-08 | 1 | 34 | 6 | 15 | 1 | 36 |
+| last60d | 2026-08-09 | 4 | 89 | 6 | 33 | 2 | 99 |
+| 90d | 2026-07-10 | 4 | 112 | 6 | 42 | 4 | 117 |
+| last180d | 2026-04-11 | 7 | 220 | 7 | 70 | 6 | 230 |
+| 360d | 2025-10-13 | 22 | 411 | 9 | 153 | 14 | 445 |
+| last720d | 2024-10-18 | 53 | 1089 | 12 | 324 | 20 | 1188 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:56:40Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:04:02Z._
