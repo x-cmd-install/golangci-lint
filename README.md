@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,427 · **Forks**: 1,638 · **Open issues**: 1,995 · **Contributors**: 368
+- **Stars**: 19,431 · **Forks**: 1,638 · **Open issues**: 1,995 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3688 · **Open PRs**: 28 · **Closed issues**: 1898 · **Open issues**: 97 · **Commits**: 4262
+- **Releases**: 193 · **Merged PRs**: 3690 · **Open PRs**: 30 · **Closed issues**: 1898 · **Open issues**: 97 · **Commits**: 4264
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 1 | 32 | 6 | 17 | 1 | 40 |
-| last60d | 2026-08-12 | 4 | 92 | 6 | 34 | 2 | 103 |
-| 90d | 2026-07-13 | 4 | 112 | 6 | 44 | 4 | 121 |
-| last180d | 2026-04-14 | 7 | 218 | 6 | 72 | 5 | 234 |
-| 360d | 2025-10-16 | 22 | 409 | 9 | 155 | 14 | 449 |
-| last720d | 2024-10-21 | 53 | 1091 | 12 | 325 | 20 | 1191 |
+| 30d | 2026-09-12 | 1 | 34 | 8 | 17 | 1 | 40 |
+| last60d | 2026-08-13 | 4 | 94 | 8 | 34 | 2 | 101 |
+| 90d | 2026-07-14 | 4 | 113 | 8 | 43 | 4 | 122 |
+| last180d | 2026-04-15 | 7 | 220 | 8 | 72 | 5 | 220 |
+| 360d | 2025-10-17 | 22 | 411 | 11 | 154 | 14 | 445 |
+| last720d | 2024-10-22 | 53 | 1093 | 14 | 325 | 20 | 1193 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:37:32Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:00:36Z._
