@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-13
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,434 · **Forks**: 1,638 · **Open issues**: 1,995 · **Contributors**: 368
+- **Stars**: 19,437 · **Forks**: 1,638 · **Open issues**: 1,995 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3698 · **Open PRs**: 23 · **Closed issues**: 1898 · **Open issues**: 97 · **Commits**: 4272
+- **Releases**: 193 · **Merged PRs**: 3699 · **Open PRs**: 22 · **Closed issues**: 1899 · **Open issues**: 96 · **Commits**: 4273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 40 | 1 | 16 | 1 | 48 |
-| last60d | 2026-08-14 | 4 | 102 | 1 | 33 | 2 | 109 |
-| 90d | 2026-07-15 | 4 | 120 | 1 | 43 | 3 | 130 |
-| last180d | 2026-04-16 | 7 | 228 | 1 | 72 | 5 | 228 |
-| 360d | 2025-10-18 | 22 | 419 | 4 | 154 | 14 | 453 |
-| last720d | 2024-10-23 | 53 | 1100 | 7 | 325 | 20 | 1200 |
+| 30d | 2026-09-14 | 1 | 41 | 0 | 16 | 1 | 49 |
+| last60d | 2026-08-15 | 4 | 103 | 0 | 34 | 1 | 110 |
+| 90d | 2026-07-16 | 4 | 121 | 0 | 44 | 2 | 131 |
+| last180d | 2026-04-17 | 7 | 228 | 0 | 73 | 4 | 229 |
+| 360d | 2025-10-19 | 22 | 419 | 3 | 155 | 13 | 454 |
+| last720d | 2024-10-24 | 53 | 1101 | 6 | 325 | 19 | 1200 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:54:33Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:50:09Z._
