@@ -14,11 +14,11 @@ x install golangci-lint
 
 ## Code insight
 
-Total: **217,442** lines of code across **1687** files in the top 5 languages.
+Total: **223,071** lines of code across **1688** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 149,399 | 0 | 2 | 45 |
+| Json | 155,028 | 0 | 2 | 46 |
 | Go | 55,818 | 5,512 | 12,370 | 1103 |
 | Yaml | 8,600 | 499 | 430 | 506 |
 | Svg | 2,326 | 0 | 0 | 9 |
@@ -42,111 +42,111 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.14.0` (2026-09-24)
-- **Last commit**: 2026-10-14
+- **Latest**: `v2.15.0` (2026-10-16)
+- **Last commit**: 2026-10-16
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,443 · **Forks**: 1,638 · **Open issues**: 1,994 · **Contributors**: 368
+- **Stars**: 19,441 · **Forks**: 1,638 · **Open issues**: 1,998 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 193 · **Merged PRs**: 3701 · **Open PRs**: 22 · **Closed issues**: 1898 · **Open issues**: 96 · **Commits**: 4275
+- **Releases**: 194 · **Merged PRs**: 3703 · **Open PRs**: 21 · **Closed issues**: 1902 · **Open issues**: 96 · **Commits**: 4278
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 43 | 0 | 16 | 1 | 51 |
-| last60d | 2026-08-17 | 4 | 103 | 0 | 34 | 1 | 112 |
-| 90d | 2026-07-18 | 4 | 123 | 0 | 44 | 2 | 133 |
-| last180d | 2026-04-19 | 7 | 222 | 0 | 71 | 3 | 231 |
-| 360d | 2025-10-21 | 22 | 418 | 3 | 153 | 13 | 456 |
-| last720d | 2024-10-26 | 53 | 1100 | 6 | 324 | 19 | 1199 |
+| 30d | 2026-09-17 | 2 | 44 | 0 | 18 | 1 | 54 |
+| last60d | 2026-08-18 | 5 | 104 | 0 | 36 | 1 | 115 |
+| 90d | 2026-07-19 | 5 | 125 | 0 | 48 | 2 | 136 |
+| last180d | 2026-04-20 | 8 | 223 | 0 | 74 | 3 | 234 |
+| 360d | 2025-10-22 | 23 | 420 | 3 | 157 | 13 | 459 |
+| last720d | 2024-10-27 | 54 | 1101 | 5 | 328 | 19 | 1202 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [golangci-lint-2.14.0-checksums.txt](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-checksums.txt) | 8.2 KiB | `other` |
-| [golangci-lint-2.14.0-darwin-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-amd64.tar.gz) | 15.2 MiB | `native/darwin/x64` |
-| [golangci-lint-2.14.0-darwin-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-amd64.tar.gz.sbom.json) | 330.3 KiB | `native/darwin/x64` |
-| [golangci-lint-2.14.0-darwin-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-arm64.tar.gz) | 14.1 MiB | `native/darwin/arm64` |
-| [golangci-lint-2.14.0-darwin-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-darwin-arm64.tar.gz.sbom.json) | 330.3 KiB | `native/darwin/arm64` |
-| [golangci-lint-2.14.0-freebsd-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-386.tar.gz) | 13.8 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-freebsd-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-386.tar.gz.sbom.json) | 329.8 KiB | `other` |
-| [golangci-lint-2.14.0-freebsd-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-freebsd-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-amd64.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-freebsd-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-freebsd-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-arm64.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-freebsd-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-armv6.tar.gz) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-freebsd-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-armv6.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-freebsd-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-armv7.tar.gz) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-freebsd-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-freebsd-armv7.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-illumos-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-illumos-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-illumos-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-illumos-amd64.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-linux-386.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-386.deb) | 13.8 MiB | `other` |
-| [golangci-lint-2.14.0-linux-386.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-386.rpm) | 13.8 MiB | `other` |
-| [golangci-lint-2.14.0-linux-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-386.tar.gz) | 13.8 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-386.tar.gz.sbom.json) | 329.0 KiB | `other` |
-| [golangci-lint-2.14.0-linux-amd64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.deb) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-linux-amd64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.rpm) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-linux-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-linux-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-amd64.tar.gz.sbom.json) | 329.8 KiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-linux-arm64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.deb) | 13.4 MiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-linux-arm64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.rpm) | 13.4 MiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-linux-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-linux-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-arm64.tar.gz.sbom.json) | 329.8 KiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-linux-armv6.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv6.deb) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv6.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv6.rpm) | 14.0 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv6.tar.gz) | 14.0 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv6.tar.gz.sbom.json) | 329.8 KiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv7.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv7.deb) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv7.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv7.rpm) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv7.tar.gz) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-armv7.tar.gz.sbom.json) | 329.8 KiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-linux-loong64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-loong64.deb) | 14.1 MiB | `other` |
-| [golangci-lint-2.14.0-linux-loong64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-loong64.rpm) | 14.1 MiB | `other` |
-| [golangci-lint-2.14.0-linux-loong64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-loong64.tar.gz) | 14.1 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-loong64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-loong64.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64.deb) | 13.0 MiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64.rpm) | 13.0 MiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64.tar.gz) | 13.0 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-mips64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64.tar.gz.sbom.json) | 330.3 KiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64le.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64le.deb) | 12.9 MiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64le.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64le.rpm) | 12.9 MiB | `other` |
-| [golangci-lint-2.14.0-linux-mips64le.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64le.tar.gz) | 12.9 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-mips64le.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-mips64le.tar.gz.sbom.json) | 331.1 KiB | `other` |
-| [golangci-lint-2.14.0-linux-ppc64le.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-ppc64le.deb) | 13.6 MiB | `other` |
-| [golangci-lint-2.14.0-linux-ppc64le.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-ppc64le.rpm) | 13.6 MiB | `other` |
-| [golangci-lint-2.14.0-linux-ppc64le.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-ppc64le.tar.gz) | 13.6 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-ppc64le.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-ppc64le.tar.gz.sbom.json) | 330.7 KiB | `other` |
-| [golangci-lint-2.14.0-linux-riscv64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-riscv64.deb) | 14.0 MiB | `native/linux/riscv64` |
-| [golangci-lint-2.14.0-linux-riscv64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-riscv64.rpm) | 14.0 MiB | `native/linux/riscv64` |
-| [golangci-lint-2.14.0-linux-riscv64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-riscv64.tar.gz) | 14.0 MiB | `native/linux/riscv64` |
-| [golangci-lint-2.14.0-linux-riscv64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-riscv64.tar.gz.sbom.json) | 330.7 KiB | `native/linux/riscv64` |
-| [golangci-lint-2.14.0-linux-s390x.deb](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-s390x.deb) | 14.4 MiB | `other` |
-| [golangci-lint-2.14.0-linux-s390x.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-s390x.rpm) | 14.4 MiB | `other` |
-| [golangci-lint-2.14.0-linux-s390x.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-s390x.tar.gz) | 14.4 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-linux-s390x.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-linux-s390x.tar.gz.sbom.json) | 329.8 KiB | `other` |
-| [golangci-lint-2.14.0-netbsd-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-386.tar.gz) | 13.8 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-netbsd-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-386.tar.gz.sbom.json) | 329.4 KiB | `other` |
-| [golangci-lint-2.14.0-netbsd-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
-| [golangci-lint-2.14.0-netbsd-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-amd64.tar.gz.sbom.json) | 330.3 KiB | `other` |
-| [golangci-lint-2.14.0-netbsd-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
-| [golangci-lint-2.14.0-netbsd-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-arm64.tar.gz.sbom.json) | 330.3 KiB | `other` |
-| [golangci-lint-2.14.0-netbsd-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-armv6.tar.gz) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-netbsd-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-armv6.tar.gz.sbom.json) | 330.3 KiB | `other` |
-| [golangci-lint-2.14.0-netbsd-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-armv7.tar.gz) | 13.9 MiB | `native/linux/arm` |
-| [golangci-lint-2.14.0-netbsd-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-netbsd-armv7.tar.gz.sbom.json) | 330.3 KiB | `other` |
-| [golangci-lint-2.14.0-source.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-source.tar.gz) | 5.2 MiB | `native/unknown` |
-| [golangci-lint-2.14.0-windows-386.zip](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-386.zip) | 14.4 MiB | `native/win/x64` |
-| [golangci-lint-2.14.0-windows-386.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-386.zip.sbom.json) | 330.6 KiB | `native/win/x64` |
-| [golangci-lint-2.14.0-windows-amd64.zip](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-amd64.zip) | 15.1 MiB | `native/win/x64` |
-| [golangci-lint-2.14.0-windows-amd64.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-amd64.zip.sbom.json) | 331.5 KiB | `native/win/x64` |
-| [golangci-lint-2.14.0-windows-arm64.zip](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-arm64.zip) | 13.5 MiB | `native/win/arm64` |
-| [golangci-lint-2.14.0-windows-arm64.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.14.0/golangci-lint-2.14.0-windows-arm64.zip.sbom.json) | 331.5 KiB | `native/win/arm64` |
+| [golangci-lint-2.15.0-checksums.txt](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-checksums.txt) | 8.2 KiB | `other` |
+| [golangci-lint-2.15.0-darwin-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-amd64.tar.gz) | 15.3 MiB | `native/darwin/x64` |
+| [golangci-lint-2.15.0-darwin-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-amd64.tar.gz.sbom.json) | 330.3 KiB | `native/darwin/x64` |
+| [golangci-lint-2.15.0-darwin-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-arm64.tar.gz) | 14.2 MiB | `native/darwin/arm64` |
+| [golangci-lint-2.15.0-darwin-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-arm64.tar.gz.sbom.json) | 330.3 KiB | `native/darwin/arm64` |
+| [golangci-lint-2.15.0-freebsd-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-386.tar.gz) | 13.8 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-freebsd-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-386.tar.gz.sbom.json) | 329.9 KiB | `other` |
+| [golangci-lint-2.15.0-freebsd-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-freebsd-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-amd64.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-freebsd-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-arm64.tar.gz) | 13.5 MiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-freebsd-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-arm64.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-freebsd-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv6.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-freebsd-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv6.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-freebsd-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv7.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-freebsd-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv7.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-illumos-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-illumos-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-illumos-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-illumos-amd64.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-linux-386.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.deb) | 13.9 MiB | `other` |
+| [golangci-lint-2.15.0-linux-386.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.rpm) | 13.9 MiB | `other` |
+| [golangci-lint-2.15.0-linux-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.tar.gz) | 13.9 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.tar.gz.sbom.json) | 329.0 KiB | `other` |
+| [golangci-lint-2.15.0-linux-amd64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.deb) | 14.9 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-linux-amd64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.rpm) | 14.9 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-linux-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.tar.gz) | 14.9 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-linux-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.tar.gz.sbom.json) | 329.9 KiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-linux-arm64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.deb) | 13.5 MiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-linux-arm64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.rpm) | 13.5 MiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-linux-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.tar.gz) | 13.5 MiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-linux-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.tar.gz.sbom.json) | 329.9 KiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-linux-armv6.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.deb) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv6.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.rpm) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.tar.gz.sbom.json) | 329.9 KiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv7.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.deb) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv7.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.rpm) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.tar.gz.sbom.json) | 329.9 KiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-linux-loong64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.deb) | 14.1 MiB | `other` |
+| [golangci-lint-2.15.0-linux-loong64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.rpm) | 14.1 MiB | `other` |
+| [golangci-lint-2.15.0-linux-loong64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.tar.gz) | 14.1 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-loong64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.deb) | 13.0 MiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.rpm) | 13.0 MiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.tar.gz) | 13.0 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-mips64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.tar.gz.sbom.json) | 330.3 KiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64le.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.deb) | 12.9 MiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64le.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.rpm) | 12.9 MiB | `other` |
+| [golangci-lint-2.15.0-linux-mips64le.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.tar.gz) | 12.9 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-mips64le.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.tar.gz.sbom.json) | 331.1 KiB | `other` |
+| [golangci-lint-2.15.0-linux-ppc64le.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.deb) | 13.6 MiB | `other` |
+| [golangci-lint-2.15.0-linux-ppc64le.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.rpm) | 13.6 MiB | `other` |
+| [golangci-lint-2.15.0-linux-ppc64le.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.tar.gz) | 13.6 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-ppc64le.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.tar.gz.sbom.json) | 330.7 KiB | `other` |
+| [golangci-lint-2.15.0-linux-riscv64.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.deb) | 14.1 MiB | `native/linux/riscv64` |
+| [golangci-lint-2.15.0-linux-riscv64.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.rpm) | 14.1 MiB | `native/linux/riscv64` |
+| [golangci-lint-2.15.0-linux-riscv64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.tar.gz) | 14.1 MiB | `native/linux/riscv64` |
+| [golangci-lint-2.15.0-linux-riscv64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.tar.gz.sbom.json) | 330.7 KiB | `native/linux/riscv64` |
+| [golangci-lint-2.15.0-linux-s390x.deb](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.deb) | 14.4 MiB | `other` |
+| [golangci-lint-2.15.0-linux-s390x.rpm](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.rpm) | 14.4 MiB | `other` |
+| [golangci-lint-2.15.0-linux-s390x.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.tar.gz) | 14.4 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-linux-s390x.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.tar.gz.sbom.json) | 329.9 KiB | `other` |
+| [golangci-lint-2.15.0-netbsd-386.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-386.tar.gz) | 13.8 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-netbsd-386.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-386.tar.gz.sbom.json) | 329.5 KiB | `other` |
+| [golangci-lint-2.15.0-netbsd-amd64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-amd64.tar.gz) | 14.8 MiB | `native/linux/x64` |
+| [golangci-lint-2.15.0-netbsd-amd64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-amd64.tar.gz.sbom.json) | 330.3 KiB | `other` |
+| [golangci-lint-2.15.0-netbsd-arm64.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-arm64.tar.gz) | 13.4 MiB | `native/linux/arm64` |
+| [golangci-lint-2.15.0-netbsd-arm64.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-arm64.tar.gz.sbom.json) | 330.3 KiB | `other` |
+| [golangci-lint-2.15.0-netbsd-armv6.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv6.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-netbsd-armv6.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv6.tar.gz.sbom.json) | 330.3 KiB | `other` |
+| [golangci-lint-2.15.0-netbsd-armv7.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv7.tar.gz) | 14.0 MiB | `native/linux/arm` |
+| [golangci-lint-2.15.0-netbsd-armv7.tar.gz.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv7.tar.gz.sbom.json) | 330.3 KiB | `other` |
+| [golangci-lint-2.15.0-source.tar.gz](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-source.tar.gz) | 5.3 MiB | `native/unknown` |
+| [golangci-lint-2.15.0-windows-386.zip](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-386.zip) | 14.5 MiB | `native/win/x64` |
+| [golangci-lint-2.15.0-windows-386.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-386.zip.sbom.json) | 330.7 KiB | `native/win/x64` |
+| [golangci-lint-2.15.0-windows-amd64.zip](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-amd64.zip) | 15.2 MiB | `native/win/x64` |
+| [golangci-lint-2.15.0-windows-amd64.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-amd64.zip.sbom.json) | 331.5 KiB | `native/win/x64` |
+| [golangci-lint-2.15.0-windows-arm64.zip](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip) | 13.6 MiB | `native/win/arm64` |
+| [golangci-lint-2.15.0-windows-arm64.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip.sbom.json) | 331.5 KiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:27:06Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:22:27Z._
