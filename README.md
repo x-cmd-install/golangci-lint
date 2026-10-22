@@ -26,13 +26,13 @@ Total: **223,118** lines of code across **1688** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.6 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-21
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,460 · **Forks**: 1,642 · **Open issues**: 1,998 · **Contributors**: 368
+- **Stars**: 19,463 · **Forks**: 1,641 · **Open issues**: 1,999 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3708 · **Open PRs**: 21 · **Closed issues**: 1904 · **Open issues**: 94 · **Commits**: 4283
+- **Releases**: 194 · **Merged PRs**: 3709 · **Open PRs**: 21 · **Closed issues**: 1905 · **Open issues**: 94 · **Commits**: 4284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 46 | 0 | 16 | 1 | 41 |
-| last60d | 2026-08-22 | 3 | 88 | 0 | 29 | 1 | 91 |
-| 90d | 2026-07-23 | 5 | 127 | 0 | 47 | 2 | 137 |
-| last180d | 2026-04-24 | 8 | 226 | 0 | 73 | 3 | 235 |
-| 360d | 2025-10-26 | 23 | 422 | 3 | 159 | 11 | 456 |
-| last720d | 2024-10-31 | 54 | 1102 | 5 | 327 | 17 | 1202 |
+| 30d | 2026-09-22 | 2 | 46 | 0 | 17 | 1 | 42 |
+| last60d | 2026-08-23 | 3 | 88 | 0 | 30 | 1 | 92 |
+| 90d | 2026-07-24 | 5 | 128 | 0 | 48 | 2 | 138 |
+| last180d | 2026-04-25 | 8 | 227 | 0 | 74 | 3 | 236 |
+| 360d | 2025-10-27 | 23 | 422 | 3 | 160 | 11 | 457 |
+| last720d | 2024-11-01 | 54 | 1102 | 5 | 328 | 17 | 1203 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:44:19Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:37:22Z._

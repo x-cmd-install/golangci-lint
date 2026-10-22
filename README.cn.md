@@ -26,13 +26,13 @@ x install golangci-lint
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 - **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install golangci-lint
 ## 发布
 
 - **最新版本**: `v2.15.0` (2026-10-16)
-- **最近提交**: 2026-10-20
+- **最近提交**: 2026-10-21
 - **Release 含资产**: 78 个
 
 ## 流行度
 
-- **Star**: 19,460 · **Fork**: 1,642 · **开放 issue**: 1,998 · **贡献者**: 368
+- **Star**: 19,463 · **Fork**: 1,641 · **开放 issue**: 1,999 · **贡献者**: 368
 
 ## 累计统计
 
-- **发布数**: 194 · **已合并 PR**: 3708 · **开放 PR**: 21 · **已关闭 issue**: 1904 · **开放 issue**: 94 · **提交数**: 4283
+- **发布数**: 194 · **已合并 PR**: 3709 · **开放 PR**: 21 · **已关闭 issue**: 1905 · **开放 issue**: 94 · **提交数**: 4284
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 2 | 46 | 0 | 16 | 1 | 41 |
-| last60d | 2026-08-22 | 3 | 88 | 0 | 29 | 1 | 91 |
-| 90d | 2026-07-23 | 5 | 127 | 0 | 47 | 2 | 137 |
-| last180d | 2026-04-24 | 8 | 226 | 0 | 73 | 3 | 235 |
-| 360d | 2025-10-26 | 23 | 422 | 3 | 159 | 11 | 456 |
-| last720d | 2024-10-31 | 54 | 1102 | 5 | 327 | 17 | 1202 |
+| 30d | 2026-09-22 | 2 | 46 | 0 | 17 | 1 | 42 |
+| last60d | 2026-08-23 | 3 | 88 | 0 | 30 | 1 | 92 |
+| 90d | 2026-07-24 | 5 | 128 | 0 | 48 | 2 | 138 |
+| last180d | 2026-04-25 | 8 | 227 | 0 | 74 | 3 | 236 |
+| 360d | 2025-10-27 | 23 | 422 | 3 | 160 | 11 | 457 |
+| last720d | 2024-11-01 | 54 | 1102 | 5 | 328 | 17 | 1203 |
 
 ## Release 资产
 
@@ -157,4 +157,4 @@ golangci-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:44:20Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:37:23Z._
