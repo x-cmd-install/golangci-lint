@@ -1,15 +1,3 @@
-- repo: nix_stable_25_11
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.6.2
-  origversion: null
-  status: outdated
-  summary: Fast linters Runner for Go
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - joerg@thalheim.io
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_3_19
   subrepo: community
   srcname: golangci-lint
@@ -283,6 +271,17 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
+- repo: parabola
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
 - repo: alpine_3_24
   subrepo: community
   srcname: golangci-lint
@@ -390,6 +389,22 @@
     - GPL-3.0
   categories:
     - Development/Tools
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: golangci-lint
+  binnames:
+    - golangci-lint
+    - golangci-lint-debuginfo
+    - golangci-lint-debugsource
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1.1
+  status: newest
+  summary: A fast Go linters runner
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
 - repo: altsisyphus
   srcname: golangci-lint
   binnames:
@@ -600,18 +615,6 @@
     - dutra@freebsd.org
   categories:
     - devel
-- repo: nix_stable_24_11
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: 1.62.2
-  origversion: null
-  status: outdated
-  summary: Fast linters Runner for Go
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - joerg@thalheim.io
-  licenses:
-    - GPL-3.0-or-later
 - repo: gentoo
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -745,18 +748,6 @@
     - MPL-2.0
   categories:
     - dev-go
-- repo: nix_stable_25_05
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.1.6
-  origversion: null
-  status: outdated
-  summary: Fast linters Runner for Go
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - joerg@thalheim.io
-  licenses:
-    - GPL-3.0-or-later
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -923,6 +914,42 @@
     - joerg@thalheim.io
   licenses:
     - GPL-3.0-or-later
+- repo: nix_stable_24_11
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: 1.62.2
+  origversion: null
+  status: outdated
+  summary: Fast linters Runner for Go
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - joerg@thalheim.io
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_05
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.1.6
+  origversion: null
+  status: outdated
+  summary: Fast linters Runner for Go
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - joerg@thalheim.io
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_25_11
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.6.2
+  origversion: null
+  status: outdated
+  summary: Fast linters Runner for Go
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - joerg@thalheim.io
+  licenses:
+    - GPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: golangci-lint
   visiblename: golangci-lint
@@ -959,33 +986,6 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: golangci-lint
-  binnames:
-    - golangci-lint
-    - golangci-lint-debuginfo
-    - golangci-lint-debugsource
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1.1
-  status: newest
-  summary: A fast Go linters runner
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
 - repo: pkgsrc_2026_2
   srcname: devel/golangci-lint
   binname: golangci-lint
@@ -1003,7 +1003,7 @@
   binname: golangci-lint
   visiblename: devel/golangci-lint
   version: 2.8.0
-  origversion: 2.8.0nb10
+  origversion: 2.8.0nb11
   status: outdated
   summary: Aggregator for Go linters
   maintainers:
