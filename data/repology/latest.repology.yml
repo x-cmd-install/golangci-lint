@@ -24,240 +24,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-fish-completion
-  visiblename: golangci-lint-fish-completion
-  version: 1.55.2
-  origversion: 1.55.2-r3
-  status: outdated
-  summary: Fish completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_19
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-zsh-completion
-  visiblename: golangci-lint-zsh-completion
-  version: 1.55.2
-  origversion: 1.55.2-r3
-  status: outdated
-  summary: Zsh completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 1.57.2
-  origversion: 1.57.2-r3
-  status: outdated
-  summary: Fast linters runner for Go
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-bash-completion
-  visiblename: golangci-lint-bash-completion
-  version: 1.57.2
-  origversion: 1.57.2-r3
-  status: outdated
-  summary: Bash completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-fish-completion
-  visiblename: golangci-lint-fish-completion
-  version: 1.57.2
-  origversion: 1.57.2-r3
-  status: outdated
-  summary: Fish completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_20
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-zsh-completion
-  visiblename: golangci-lint-zsh-completion
-  version: 1.57.2
-  origversion: 1.57.2-r3
-  status: outdated
-  summary: Zsh completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 1.61.0
-  origversion: 1.61.0-r5
-  status: outdated
-  summary: Fast linters runner for Go
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-bash-completion
-  visiblename: golangci-lint-bash-completion
-  version: 1.61.0
-  origversion: 1.61.0-r5
-  status: outdated
-  summary: Bash completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-fish-completion
-  visiblename: golangci-lint-fish-completion
-  version: 1.61.0
-  origversion: 1.61.0-r5
-  status: outdated
-  summary: Fish completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_21
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-zsh-completion
-  visiblename: golangci-lint-zsh-completion
-  version: 1.61.0
-  origversion: 1.61.0-r5
-  status: outdated
-  summary: Zsh completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.1.6
-  origversion: 2.1.6-r5
-  status: outdated
-  summary: Fast linters runner for Go
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-bash-completion
-  visiblename: golangci-lint-bash-completion
-  version: 2.1.6
-  origversion: 2.1.6-r5
-  status: outdated
-  summary: Bash completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-fish-completion
-  visiblename: golangci-lint-fish-completion
-  version: 2.1.6
-  origversion: 2.1.6-r5
-  status: outdated
-  summary: Fish completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_22
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-zsh-completion
-  visiblename: golangci-lint-zsh-completion
-  version: 2.1.6
-  origversion: 2.1.6-r5
-  status: outdated
-  summary: Zsh completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.5.0
-  origversion: 2.5.0-r6
-  status: outdated
-  summary: Fast linters runner for Go
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-bash-completion
-  visiblename: golangci-lint-bash-completion
-  version: 2.5.0
-  origversion: 2.5.0-r6
-  status: outdated
-  summary: Bash completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-fish-completion
-  visiblename: golangci-lint-fish-completion
-  version: 2.5.0
-  origversion: 2.5.0-r6
-  status: outdated
-  summary: Fish completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
-- repo: alpine_3_23
-  subrepo: community
-  srcname: golangci-lint
-  binname: golangci-lint-zsh-completion
-  visiblename: golangci-lint-zsh-completion
-  version: 2.5.0
-  origversion: 2.5.0-r6
-  status: outdated
-  summary: Zsh completions for golangci-lint
-  maintainers:
-    - folliekazetani@protonmail.com
-  licenses:
-    - GPL-3.0-or-later
 - repo: alpine_3_24
   subrepo: community
   srcname: golangci-lint
@@ -271,17 +37,247 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: parabola
-  subrepo: extra
+- repo: alpine_3_19
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-fish-completion
+  visiblename: golangci-lint-fish-completion
+  version: 1.55.2
+  origversion: 1.55.2-r3
+  status: outdated
+  summary: Fish completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_19
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-zsh-completion
+  visiblename: golangci-lint-zsh-completion
+  version: 1.55.2
+  origversion: 1.55.2-r3
+  status: outdated
+  summary: Zsh completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
   srcname: golangci-lint
   binname: golangci-lint
   visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
+  version: 1.57.2
+  origversion: 1.57.2-r3
+  status: outdated
   summary: Fast linters runner for Go
+  maintainers:
+    - folliekazetani@protonmail.com
   licenses:
-    - GPL-3.0-only
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-bash-completion
+  visiblename: golangci-lint-bash-completion
+  version: 1.57.2
+  origversion: 1.57.2-r3
+  status: outdated
+  summary: Bash completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-fish-completion
+  visiblename: golangci-lint-fish-completion
+  version: 1.57.2
+  origversion: 1.57.2-r3
+  status: outdated
+  summary: Fish completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_20
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-zsh-completion
+  visiblename: golangci-lint-zsh-completion
+  version: 1.57.2
+  origversion: 1.57.2-r3
+  status: outdated
+  summary: Zsh completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 1.61.0
+  origversion: 1.61.0-r5
+  status: outdated
+  summary: Fast linters runner for Go
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-bash-completion
+  visiblename: golangci-lint-bash-completion
+  version: 1.61.0
+  origversion: 1.61.0-r5
+  status: outdated
+  summary: Bash completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-fish-completion
+  visiblename: golangci-lint-fish-completion
+  version: 1.61.0
+  origversion: 1.61.0-r5
+  status: outdated
+  summary: Fish completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_21
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-zsh-completion
+  visiblename: golangci-lint-zsh-completion
+  version: 1.61.0
+  origversion: 1.61.0-r5
+  status: outdated
+  summary: Zsh completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.1.6
+  origversion: 2.1.6-r5
+  status: outdated
+  summary: Fast linters runner for Go
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-bash-completion
+  visiblename: golangci-lint-bash-completion
+  version: 2.1.6
+  origversion: 2.1.6-r5
+  status: outdated
+  summary: Bash completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-fish-completion
+  visiblename: golangci-lint-fish-completion
+  version: 2.1.6
+  origversion: 2.1.6-r5
+  status: outdated
+  summary: Fish completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_22
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-zsh-completion
+  visiblename: golangci-lint-zsh-completion
+  version: 2.1.6
+  origversion: 2.1.6-r5
+  status: outdated
+  summary: Zsh completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.5.0
+  origversion: 2.5.0-r6
+  status: outdated
+  summary: Fast linters runner for Go
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-bash-completion
+  visiblename: golangci-lint-bash-completion
+  version: 2.5.0
+  origversion: 2.5.0-r6
+  status: outdated
+  summary: Bash completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-fish-completion
+  visiblename: golangci-lint-fish-completion
+  version: 2.5.0
+  origversion: 2.5.0-r6
+  status: outdated
+  summary: Fish completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: alpine_3_23
+  subrepo: community
+  srcname: golangci-lint
+  binname: golangci-lint-zsh-completion
+  visiblename: golangci-lint-zsh-completion
+  version: 2.5.0
+  origversion: 2.5.0-r6
+  status: outdated
+  summary: Zsh completions for golangci-lint
+  maintainers:
+    - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: wikidata
+  srcname: Q112143959
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: null
+  status: newest
+  summary: Go linters aggregator
 - repo: alpine_3_24
   subrepo: community
   srcname: golangci-lint
@@ -389,22 +385,6 @@
     - GPL-3.0
   categories:
     - Development/Tools
-- repo: opensuse_tumbleweed
-  subrepo: src-oss
-  srcname: golangci-lint
-  binnames:
-    - golangci-lint
-    - golangci-lint-debuginfo
-    - golangci-lint-debugsource
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1.1
-  status: newest
-  summary: A fast Go linters runner
-  licenses:
-    - GPL-3.0-only
-  categories:
-    - Unspecified
 - repo: altsisyphus
   srcname: golangci-lint
   binnames:
@@ -540,22 +520,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: golangci-lint
-  binnames:
-    - golangci-lint
-    - golangci-lint-debuginfo
-    - golangci-lint-debugsource
-  visiblename: golangci-lint
-  version: 2.4.0
-  origversion: 2.4.0-1.fc43
-  status: legacy
-  summary: Fast linters runner for Go
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: golangci-lint
   binnames:
@@ -566,6 +530,22 @@
   version: 2.11.3
   origversion: 2.11.3-1.fc43
   status: outdated
+  summary: Fast linters runner for Go
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: golangci-lint
+  binnames:
+    - golangci-lint
+    - golangci-lint-debuginfo
+    - golangci-lint-debugsource
+  visiblename: golangci-lint
+  version: 2.4.0
+  origversion: 2.4.0-1.fc43
+  status: legacy
   summary: Fast linters runner for Go
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
@@ -986,6 +966,33 @@
     - GPL-3.0-only
   categories:
     - Unspecified
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: golangci-lint
+  binnames:
+    - golangci-lint
+    - golangci-lint-debuginfo
+    - golangci-lint-debugsource
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1.1
+  status: newest
+  summary: A fast Go linters runner
+  licenses:
+    - GPL-3.0-only
+  categories:
+    - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
 - repo: pkgsrc_2026_2
   srcname: devel/golangci-lint
   binname: golangci-lint
@@ -1056,18 +1063,11 @@
   srcname: golangci-lint
   binname: golangci-lint
   visiblename: golangci-lint
-  version: 2.14.0
-  origversion: 2.14.0_1
-  status: outdated
+  version: 2.15.0
+  origversion: 2.15.0_1
+  status: newest
   summary: Linters Runner for Go
   maintainers:
     - orphan@voidlinux.org
   licenses:
     - GPL-3.0-only
-- repo: wikidata
-  srcname: Q112143959
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: null
-  status: newest
-  summary: Go linters aggregator
