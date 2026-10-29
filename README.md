@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,472 · **Forks**: 1,639 · **Open issues**: 2,001 · **Contributors**: 368
+- **Stars**: 19,475 · **Forks**: 1,639 · **Open issues**: 2,001 · **Contributors**: 368
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 1 | 38 | 2 | 13 | 0 | 34 |
-| last60d | 2026-08-29 | 2 | 76 | 2 | 26 | 1 | 78 |
-| 90d | 2026-07-30 | 5 | 127 | 2 | 49 | 2 | 136 |
-| last180d | 2026-05-01 | 8 | 215 | 2 | 71 | 3 | 213 |
-| 360d | 2025-11-02 | 22 | 417 | 5 | 160 | 11 | 453 |
-| last720d | 2024-11-07 | 54 | 1094 | 7 | 328 | 17 | 1198 |
+| 30d | 2026-09-29 | 1 | 37 | 2 | 13 | 0 | 34 |
+| last60d | 2026-08-30 | 2 | 74 | 2 | 26 | 1 | 78 |
+| 90d | 2026-07-31 | 5 | 127 | 2 | 49 | 1 | 136 |
+| last180d | 2026-05-02 | 7 | 214 | 2 | 71 | 3 | 213 |
+| 360d | 2025-11-03 | 22 | 417 | 5 | 159 | 11 | 453 |
+| last720d | 2024-11-08 | 54 | 1093 | 7 | 328 | 17 | 1194 |
 
 ## Release assets
 
@@ -150,7 +150,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/golangci-lint). **15** are ✅ on the latest upstream release, **53** are ⚠️ on an older version.
+Reported by **81** distros on [repology.org](https://repology.org/project/golangci-lint). **16** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:36:41Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:51:25Z._
