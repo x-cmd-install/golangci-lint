@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 8413,
       "digest": "sha256:364f56cb7ef4555e42bb1754b432b0f40bd914477d962c5888c8a8b5378ce8b6",
-      "download_count": 116053,
+      "download_count": 130634,
       "created_at": "2026-10-16T11:33:37Z",
       "updated_at": "2026-10-16T11:33:37Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 16000778,
       "digest": "sha256:767b899a28285e88ded2823d5dcc4bc5ef681173eb2d80f029a7b17ee4ece3b8",
-      "download_count": 3933,
+      "download_count": 4375,
       "created_at": "2026-10-16T11:33:18Z",
       "updated_at": "2026-10-16T11:33:19Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:77fad62e481e91d8ceefb9943e7135604113ae084438f143ee3ad44ee92a87d4",
-      "download_count": 59,
+      "download_count": 75,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:34Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-amd64.tar.gz.sbom.json"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 14858012,
       "digest": "sha256:d1e409481a8ca846c4bc97e781eb5cb1bd5c23353a0b3977a1cbda1b1b6447d5",
-      "download_count": 33906,
+      "download_count": 37927,
       "created_at": "2026-10-16T11:33:13Z",
       "updated_at": "2026-10-16T11:33:14Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:4a762f075d08c8eb9be73b6a6c35c39ef00b593526ce20725fa20ef8d3ef98fc",
-      "download_count": 66,
+      "download_count": 81,
       "created_at": "2026-10-16T11:33:31Z",
       "updated_at": "2026-10-16T11:33:32Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-darwin-arm64.tar.gz.sbom.json"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 14521732,
       "digest": "sha256:2b33523f5c591e1246cb2f568d6e0f0dad3fa43f33840af55119b73256f4d813",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:19Z",
       "updated_at": "2026-10-16T11:33:20Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:aa4e557b3a8f7480f0210fc709e5ebc12e7550f11fa80da9bdc5ac9181bf6800",
-      "download_count": 54,
+      "download_count": 69,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-386.tar.gz.sbom.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 15558138,
       "digest": "sha256:4af60f7a5f057a0996de9642e9206db4e06666c5e191e53af7c360c26e60f1ef",
-      "download_count": 69,
+      "download_count": 82,
       "created_at": "2026-10-16T11:33:22Z",
       "updated_at": "2026-10-16T11:33:23Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:2054dd7561ea43a937577b02d87127ebe4e5ee8402d3d3075239797bcc6865dd",
-      "download_count": 59,
+      "download_count": 74,
       "created_at": "2026-10-16T11:33:36Z",
       "updated_at": "2026-10-16T11:33:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-amd64.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 14108675,
       "digest": "sha256:7780ed9c5ec5b1f184b3d7ba700695312afd773b7a9a946369ffea2169030a12",
-      "download_count": 63,
+      "download_count": 76,
       "created_at": "2026-10-16T11:33:15Z",
       "updated_at": "2026-10-16T11:33:16Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:6c5130e7f92429a472bc816a60b0c5e44abefac2bdee75e8a07fb19aa3a7366d",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:33Z",
       "updated_at": "2026-10-16T11:33:33Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-arm64.tar.gz.sbom.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 14663301,
       "digest": "sha256:29be1112b580a0790c0047a44f97a8f7e9dd1066eff81385620f0514587c9e16",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:16Z",
       "updated_at": "2026-10-16T11:33:17Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv6.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:11de381e21c1c8b09126ab4802772af94636a35fcc849e99329e8191ef71e497",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:34Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv6.tar.gz.sbom.json"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 14645472,
       "digest": "sha256:961e70b598a39713684688f2d8dfda30838300e9117ca01d74dee2c2ba8cf047",
-      "download_count": 51,
+      "download_count": 63,
       "created_at": "2026-10-16T11:33:19Z",
       "updated_at": "2026-10-16T11:33:20Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv7.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:420a950e1e80acff6d267f66ed1a31b56e67541c9724b2467bb5dd15fab4ba76",
-      "download_count": 50,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-freebsd-armv7.tar.gz.sbom.json"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 15555598,
       "digest": "sha256:868be99c15079268050396ae49ea7c38f4648ccb76272ac4a9fbd02cbf5fd4b0",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:22Z",
       "updated_at": "2026-10-16T11:33:23Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-illumos-amd64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:eeb2a107985d541a3d35bf1ca3ed991c4a58e684348c4772679fc665fba6a513",
-      "download_count": 59,
+      "download_count": 74,
       "created_at": "2026-10-16T11:33:36Z",
       "updated_at": "2026-10-16T11:33:37Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-illumos-amd64.tar.gz.sbom.json"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 14559974,
       "digest": "sha256:bb955956130ce7e598a194c79c96268844c4c4cafa72521d5abf82defeb31001",
-      "download_count": 54,
+      "download_count": 66,
       "created_at": "2026-10-16T11:33:27Z",
       "updated_at": "2026-10-16T11:33:28Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 14562237,
       "digest": "sha256:3a834b5a6c61a47f4fc072432eb94b6e533eed0b5932aab92607e2498f59780c",
-      "download_count": 54,
+      "download_count": 66,
       "created_at": "2026-10-16T11:33:28Z",
       "updated_at": "2026-10-16T11:33:29Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.rpm"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 14566294,
       "digest": "sha256:c9337add333713af8d4fe264d4d387ba59c5ce272697f2b7140265bdc6c51d22",
-      "download_count": 153,
+      "download_count": 174,
       "created_at": "2026-10-16T11:33:16Z",
       "updated_at": "2026-10-16T11:33:17Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 336935,
       "digest": "sha256:f3a48319f07b47e310a97c29b4aedb36c0ecc02cd0d491dd56f55b342450525b",
-      "download_count": 53,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:33Z",
       "updated_at": "2026-10-16T11:33:34Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-386.tar.gz.sbom.json"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 15591726,
       "digest": "sha256:95dc7dfdf0e36b48583405cb20732561b67fa90ecde20f529faaf360f1f26195",
-      "download_count": 1397,
+      "download_count": 1542,
       "created_at": "2026-10-16T11:33:25Z",
       "updated_at": "2026-10-16T11:33:26Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.deb"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 15597544,
       "digest": "sha256:422a4ccf91f612891d6d520ec3bac8d40e1449d5e7dc13302e31a7a49f3500f1",
-      "download_count": 87,
+      "download_count": 91,
       "created_at": "2026-10-16T11:33:26Z",
       "updated_at": "2026-10-16T11:33:27Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.rpm"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 15585535,
       "digest": "sha256:9b7fe6a6bf6334b98decf8d86b11415ea7889afdabdd1959fdce23af2a9ebcea",
-      "download_count": 505842,
+      "download_count": 564375,
       "created_at": "2026-10-16T11:33:13Z",
       "updated_at": "2026-10-16T11:33:14Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:e93bc05edc10f50da0c1ffb28e98a11260fc72914cb01a2d37b4f79716963688",
-      "download_count": 99,
+      "download_count": 120,
       "created_at": "2026-10-16T11:33:32Z",
       "updated_at": "2026-10-16T11:33:32Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-amd64.tar.gz.sbom.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 14136684,
       "digest": "sha256:307591a06e8d4af48a1a97a471fa3aa9facaa585aafd5affa4af70a3c0a8a7ff",
-      "download_count": 143,
+      "download_count": 159,
       "created_at": "2026-10-16T11:33:26Z",
       "updated_at": "2026-10-16T11:33:26Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.deb"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 14142941,
       "digest": "sha256:e7836a366ee637e7c354b14e78e6d617c0fac6191fad532fb803935f8e888adc",
-      "download_count": 56,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:27Z",
       "updated_at": "2026-10-16T11:33:28Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.rpm"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 14141514,
       "digest": "sha256:b4d8f17068b35ee6060cc2f69a16fb48740d706fbba81661c318649c114a6998",
-      "download_count": 77604,
+      "download_count": 93816,
       "created_at": "2026-10-16T11:33:18Z",
       "updated_at": "2026-10-16T11:33:19Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:d4cc925874829d4f854185e8b6ed35a5ead32732741a187339c6bb7f74577d95",
-      "download_count": 61,
+      "download_count": 76,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-arm64.tar.gz.sbom.json"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 14698456,
       "digest": "sha256:5e905883119d4129f9e3500ab6e33a0a4ceb4c3018801b675a06d0090db67f06",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:25Z",
       "updated_at": "2026-10-16T11:33:26Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.deb"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 14691341,
       "digest": "sha256:8f33ba6b533dcf16bab06bd8c2f95f069b8fc44b4dbfa3c245953c00b88a722a",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:27Z",
       "updated_at": "2026-10-16T11:33:28Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.rpm"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 14685780,
       "digest": "sha256:2157ff45d57a83f61f329af01807ae828c35768be4d022e8acbb63b66e820f2e",
-      "download_count": 90,
+      "download_count": 104,
       "created_at": "2026-10-16T11:33:18Z",
       "updated_at": "2026-10-16T11:33:19Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.tar.gz"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:b9479fd3c98f23e13a1b4a36b009c7bd911c1d087c893a19b8cd3354362ca50f",
-      "download_count": 58,
+      "download_count": 73,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:34Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv6.tar.gz.sbom.json"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 14679156,
       "digest": "sha256:0e93d14b87350555013c16970ddf0bf302790f90ad26456655d4a2425560f419",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:26Z",
       "updated_at": "2026-10-16T11:33:26Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.deb"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 14674321,
       "digest": "sha256:c1da59d6f71e7f4c67f25345553c2c93d4a8aea2457b6c741ed27b41f37d9263",
-      "download_count": 54,
+      "download_count": 66,
       "created_at": "2026-10-16T11:33:27Z",
       "updated_at": "2026-10-16T11:33:28Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.rpm"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 14682190,
       "digest": "sha256:4b3b298b9055447b34f28dfac6d19a6c42d3a6f2a943af93d38a63ee96be2858",
-      "download_count": 97,
+      "download_count": 111,
       "created_at": "2026-10-16T11:33:16Z",
       "updated_at": "2026-10-16T11:33:17Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.tar.gz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:681fcb4e4a4b6a83c0231bcce4b8dc39fbc34fb2376a0be91a524eebc935bbaa",
-      "download_count": 52,
+      "download_count": 67,
       "created_at": "2026-10-16T11:33:33Z",
       "updated_at": "2026-10-16T11:33:33Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-armv7.tar.gz.sbom.json"
@@ -1399,7 +1399,7 @@
       "state": "uploaded",
       "size": 14818434,
       "digest": "sha256:bea0f40ef271f4731f6418252205e412bf5940d10a02408830c8665757605788",
-      "download_count": 61,
+      "download_count": 73,
       "created_at": "2026-10-16T11:33:24Z",
       "updated_at": "2026-10-16T11:33:25Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.deb"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 14820337,
       "digest": "sha256:6fa26d154b9fbf44e5aecef2b2a8692b65e272fb6e5d4a042a33835aa9274fd6",
-      "download_count": 55,
+      "download_count": 67,
       "created_at": "2026-10-16T11:33:32Z",
       "updated_at": "2026-10-16T11:33:32Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.rpm"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 14821218,
       "digest": "sha256:2b70dedf1fce21bb44472346e061b8910ac2bc2ddbf39d669e16bbe9a538c91f",
-      "download_count": 62,
+      "download_count": 74,
       "created_at": "2026-10-16T11:33:21Z",
       "updated_at": "2026-10-16T11:33:22Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.tar.gz"
@@ -1507,7 +1507,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:437be2ca1c0a9d0cbcda2e69b517988a81ba05138e31f318d358f262b38a6091",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:36Z",
       "updated_at": "2026-10-16T11:33:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-loong64.tar.gz.sbom.json"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 13675172,
       "digest": "sha256:72de0b9103dd5076455b5ce5c396b45e97950e1fe373ea4451e4a3e406232d26",
-      "download_count": 60,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:24Z",
       "updated_at": "2026-10-16T11:33:25Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.deb"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 13681370,
       "digest": "sha256:13c8a9f81dfd9b215029cd2c65ed4d9cdcf2d7cbe2b6a3203a75c435edd5f710",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:30Z",
       "updated_at": "2026-10-16T11:33:31Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.rpm"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 13678023,
       "digest": "sha256:9018d14cd07d46d1b8f933e988ef9ae964e36a2ce19a6138eb10c7a0e237a516",
-      "download_count": 63,
+      "download_count": 75,
       "created_at": "2026-10-16T11:33:13Z",
       "updated_at": "2026-10-16T11:33:14Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.tar.gz"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:39f35b57720d0ab44a449b6d70862829592d258c705e9923ca3dbd832d273729",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:32Z",
       "updated_at": "2026-10-16T11:33:32Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64.tar.gz.sbom.json"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 13566402,
       "digest": "sha256:6672a9f2d3604db80bb844dce171d5e38a136d90d7d4fcd2fbe0266491daf297",
-      "download_count": 60,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:24Z",
       "updated_at": "2026-10-16T11:33:25Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.deb"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 13568080,
       "digest": "sha256:39dc7f012cf22e9221038f32677abffe627b1c6fd7440cbea87e6ab7f2b8ca5b",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:30Z",
       "updated_at": "2026-10-16T11:33:31Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.rpm"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 13560660,
       "digest": "sha256:fa07b5795eeeb7a80eb99bb96c582882b628c01cebde7ad4d9c3ee1f7395f47d",
-      "download_count": 62,
+      "download_count": 74,
       "created_at": "2026-10-16T11:33:21Z",
       "updated_at": "2026-10-16T11:33:22Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.tar.gz"
@@ -1795,7 +1795,7 @@
       "state": "uploaded",
       "size": 339055,
       "digest": "sha256:056d9bbc4cfb1b69736156c674852c260978d1f24549a3723cad20f4f3615e01",
-      "download_count": 58,
+      "download_count": 73,
       "created_at": "2026-10-16T11:33:35Z",
       "updated_at": "2026-10-16T11:33:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-mips64le.tar.gz.sbom.json"
@@ -1831,7 +1831,7 @@
       "state": "uploaded",
       "size": 14291784,
       "digest": "sha256:58d905c98393181ef565a1a28e24643b5f9b89c719964c9a1a45748e9c7fca24",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:28Z",
       "updated_at": "2026-10-16T11:33:29Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.deb"
@@ -1867,7 +1867,7 @@
       "state": "uploaded",
       "size": 14296010,
       "digest": "sha256:3c160e799d2e5a9669924175cb63d59462862c98431e1d6e4ee25d5a7f7ac56e",
-      "download_count": 52,
+      "download_count": 64,
       "created_at": "2026-10-16T11:33:28Z",
       "updated_at": "2026-10-16T11:33:30Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.rpm"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 14293214,
       "digest": "sha256:14df8d543f92937ddf2889d3c1fa44277e6c774c6a75354ecc81cf1204b4b7b8",
-      "download_count": 82,
+      "download_count": 95,
       "created_at": "2026-10-16T11:33:21Z",
       "updated_at": "2026-10-16T11:33:22Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.tar.gz"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:f5882c5ca7e8f08394ea635df7dd196e3de424d033c55e529c7355fd8a2f3896",
-      "download_count": 56,
+      "download_count": 71,
       "created_at": "2026-10-16T11:33:35Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-ppc64le.tar.gz.sbom.json"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 14777770,
       "digest": "sha256:edda91cd59ff17024dc2425b664e878e57f30a5248e7a37339d3e91308cf8aca",
-      "download_count": 59,
+      "download_count": 71,
       "created_at": "2026-10-16T11:33:23Z",
       "updated_at": "2026-10-16T11:33:24Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.deb"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 14780731,
       "digest": "sha256:333bd5ac73e5f5b1a787d8743cda3c33b4669cb9ff8ec6f84c5f8db2a5c7147c",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:30Z",
       "updated_at": "2026-10-16T11:33:31Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.rpm"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 14773717,
       "digest": "sha256:45452767c7bb2557e7bd201f275ec809563ba5fb7464b24e42141811081d4934",
-      "download_count": 62,
+      "download_count": 74,
       "created_at": "2026-10-16T11:33:15Z",
       "updated_at": "2026-10-16T11:33:16Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.tar.gz"
@@ -2083,7 +2083,7 @@
       "state": "uploaded",
       "size": 338631,
       "digest": "sha256:8dac0df2ea489fbf1cef2e49a6f3f719667c8cf18636aeae37a97a983debeb6a",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:32Z",
       "updated_at": "2026-10-16T11:33:33Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-riscv64.tar.gz.sbom.json"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 15117744,
       "digest": "sha256:1b77b8553fadf7bb49e0c8e789396d98d604630e3626570019feb10828970453",
-      "download_count": 56,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:29Z",
       "updated_at": "2026-10-16T11:33:29Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.deb"
@@ -2155,7 +2155,7 @@
       "state": "uploaded",
       "size": 15123303,
       "digest": "sha256:3f7632dd64d508bc1455b6009fddd34b1b5c375869ba9bcf43b7fe109b9465fd",
-      "download_count": 51,
+      "download_count": 63,
       "created_at": "2026-10-16T11:33:30Z",
       "updated_at": "2026-10-16T11:33:31Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.rpm"
@@ -2191,7 +2191,7 @@
       "state": "uploaded",
       "size": 15117734,
       "digest": "sha256:8571d506e9d1a076876bef95fb5ef99b562216782f710ff81a7130d0870cfb6e",
-      "download_count": 92,
+      "download_count": 106,
       "created_at": "2026-10-16T11:33:13Z",
       "updated_at": "2026-10-16T11:33:14Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 337783,
       "digest": "sha256:c8fe7b0d77c9df7b339073b66a3aa19f2e99c07c56759e1dda35607eef34f3ec",
-      "download_count": 56,
+      "download_count": 71,
       "created_at": "2026-10-16T11:33:31Z",
       "updated_at": "2026-10-16T11:33:32Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-linux-s390x.tar.gz.sbom.json"
@@ -2263,7 +2263,7 @@
       "state": "uploaded",
       "size": 14510142,
       "digest": "sha256:04ba984f93c2587be3252135985434efddcdf93790e9f25d546190424fd0aa11",
-      "download_count": 53,
+      "download_count": 65,
       "created_at": "2026-10-16T11:33:22Z",
       "updated_at": "2026-10-16T11:33:23Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-386.tar.gz"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 337359,
       "digest": "sha256:adf52ebf131a6b8c0e2794fe620365fa914bb388ababb3175e42ec9702bac438",
-      "download_count": 53,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:36Z",
       "updated_at": "2026-10-16T11:33:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-386.tar.gz.sbom.json"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 15546622,
       "digest": "sha256:83410640dd01c8d87e9a18f0eb8b42fe9fc3ce2d1fc7f9d4a5d084ece1bf5a0e",
-      "download_count": 58,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:22Z",
       "updated_at": "2026-10-16T11:33:23Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-amd64.tar.gz"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:1be4405ea8301280cad8aaf2ab200201bae7752068a411302d56a8ccd203fec8",
-      "download_count": 57,
+      "download_count": 72,
       "created_at": "2026-10-16T11:33:36Z",
       "updated_at": "2026-10-16T11:33:36Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-amd64.tar.gz.sbom.json"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 14099162,
       "digest": "sha256:b84ac6c3c9d4b474c868e923d90a38cd07a24ed6aac054cdfd593ccc9ba64196",
-      "download_count": 59,
+      "download_count": 71,
       "created_at": "2026-10-16T11:33:20Z",
       "updated_at": "2026-10-16T11:33:21Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-arm64.tar.gz"
@@ -2443,7 +2443,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:88efce34615796845892b74620ee658d0edadc498a830def75b448b8bded40f2",
-      "download_count": 56,
+      "download_count": 71,
       "created_at": "2026-10-16T11:33:35Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-arm64.tar.gz.sbom.json"
@@ -2479,7 +2479,7 @@
       "state": "uploaded",
       "size": 14648492,
       "digest": "sha256:d9500ce61c435d966f7b8a754de432dcb53125be65ebf4052e3490fb24814260",
-      "download_count": 56,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:20Z",
       "updated_at": "2026-10-16T11:33:21Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv6.tar.gz"
@@ -2515,7 +2515,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:d2f116a605f7316263b4167fd8ef14b24627b81f680af488b40a1bb49046c6b5",
-      "download_count": 55,
+      "download_count": 70,
       "created_at": "2026-10-16T11:33:35Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv6.tar.gz.sbom.json"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 14636213,
       "digest": "sha256:ff5479eaf0cb400241fa79f635ef4ac29480dcd7696195f46a13313bbd46fcd1",
-      "download_count": 52,
+      "download_count": 64,
       "created_at": "2026-10-16T11:33:15Z",
       "updated_at": "2026-10-16T11:33:18Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv7.tar.gz"
@@ -2587,7 +2587,7 @@
       "state": "uploaded",
       "size": 338207,
       "digest": "sha256:bac8e9a0da40e9849d44e723a3998375ac7d3f0447d789e4e5f5e9e8fa8a28fe",
-      "download_count": 51,
+      "download_count": 66,
       "created_at": "2026-10-16T11:33:32Z",
       "updated_at": "2026-10-16T11:33:33Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-netbsd-armv7.tar.gz.sbom.json"
@@ -2623,7 +2623,7 @@
       "state": "uploaded",
       "size": 5516629,
       "digest": "sha256:4b3e1e6398c79215c898d48b14836e46229276b302e0ae8065d1a9f36ba8df96",
-      "download_count": 117,
+      "download_count": 134,
       "created_at": "2026-10-16T11:33:23Z",
       "updated_at": "2026-10-16T11:33:24Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-source.tar.gz"
@@ -2659,7 +2659,7 @@
       "state": "uploaded",
       "size": 15177889,
       "digest": "sha256:1266ad2e315fa11297c67d65093c7b8de83c29ddbd192221878d8eeaef4f5fe8",
-      "download_count": 132,
+      "download_count": 148,
       "created_at": "2026-10-16T11:33:18Z",
       "updated_at": "2026-10-16T11:33:19Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-386.zip"
@@ -2695,7 +2695,7 @@
       "state": "uploaded",
       "size": 338601,
       "digest": "sha256:3558ad85d58fcb00299a3722bf353e3d8d48df513459fcdaa01e4e5e597c6939",
-      "download_count": 53,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:34Z",
       "updated_at": "2026-10-16T11:33:34Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-386.zip.sbom.json"
@@ -2731,7 +2731,7 @@
       "state": "uploaded",
       "size": 15903887,
       "digest": "sha256:cd7ea6063c95de245e17e5246e42bdc14bb221792c429dbd239ab3a6ade6ca6a",
-      "download_count": 19529,
+      "download_count": 21586,
       "created_at": "2026-10-16T11:33:20Z",
       "updated_at": "2026-10-16T11:33:21Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-amd64.zip"
@@ -2767,7 +2767,7 @@
       "state": "uploaded",
       "size": 339449,
       "digest": "sha256:9ebbfab6b177be7cf4ba2cb91ba8d64ec1a805a92c3cdd0a53d3f5d5455ee67a",
-      "download_count": 54,
+      "download_count": 69,
       "created_at": "2026-10-16T11:33:35Z",
       "updated_at": "2026-10-16T11:33:35Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-amd64.zip.sbom.json"
@@ -2803,7 +2803,7 @@
       "state": "uploaded",
       "size": 14263669,
       "digest": "sha256:4fb8988abf186158e30af1b8a0fb3671cf2cb02bc91d7e6ce6996f4c1e922e9a",
-      "download_count": 306,
+      "download_count": 335,
       "created_at": "2026-10-16T11:33:15Z",
       "updated_at": "2026-10-16T11:33:16Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip"
@@ -2839,7 +2839,7 @@
       "state": "uploaded",
       "size": 339449,
       "digest": "sha256:a2e68581226884c18f2d4421e880d102fc3471ed0cad272f8e93865d03bf51f7",
-      "download_count": 53,
+      "download_count": 68,
       "created_at": "2026-10-16T11:33:33Z",
       "updated_at": "2026-10-16T11:33:33Z",
       "browser_download_url": "https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip.sbom.json"
