@@ -1,3 +1,21 @@
+- repo: arch
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
+- repo: homebrew
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast linters runner for Go
 - repo: alpine_3_19
   subrepo: community
   srcname: golangci-lint
@@ -37,19 +55,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: liguros_stable
-  srcname: dev-go/golangci-lint
-  visiblename: dev-go/golangci-lint
-  version: 1.56.2
-  origversion: null
-  status: legacy
-  summary: Fast linters runner for Go
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - GPL-3
-  categories:
-    - dev-go
 - repo: alpine_3_19
   subrepo: community
   srcname: golangci-lint
@@ -180,6 +185,18 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
+- repo: aur
+  srcname: golangci-lint-bin
+  binname: golangci-lint-bin
+  visiblename: golangci-lint-bin
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go.
+  maintainers:
+    - ldez@aur
+  licenses:
+    - GPL-3.0
 - repo: alpine_3_22
   subrepo: community
   srcname: golangci-lint
@@ -407,29 +424,6 @@
     - GPL-3.0
   categories:
     - Development/Tools
-- repo: arch
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
-- repo: aur
-  srcname: golangci-lint-bin
-  binname: golangci-lint-bin
-  visiblename: golangci-lint-bin
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go.
-  maintainers:
-    - ldez@aur
-  licenses:
-    - GPL-3.0
 - repo: aur
   srcname: golangci-lint-v1-bin
   binname: golangci-lint-v1-bin
@@ -650,13 +644,6 @@
   origversion: null
   status: newest
   summary: Fast linters runner for Go
-- repo: homebrew
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast linters runner for Go
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -775,6 +762,19 @@
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
+  version: 1.56.2
+  origversion: null
+  status: legacy
+  summary: Fast linters runner for Go
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - GPL-3
+  categories:
+    - dev-go
+- repo: liguros_stable
+  srcname: dev-go/golangci-lint
+  visiblename: dev-go/golangci-lint
   version: 1.61.0
   origversion: null
   status: legacy
@@ -842,28 +842,6 @@
     - GPL-3
   categories:
     - devel
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.13.2
-  origversion: 2.13.2-1
-  status: outdated
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.14.0
-  origversion: 2.14.0-1
-  status: outdated
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
 - repo: manjaro_unstable
   subrepo: extra
   srcname: golangci-lint
