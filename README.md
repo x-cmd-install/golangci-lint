@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-10-27
+- **Last commit**: 2026-11-01
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,487 · **Forks**: 1,639 · **Open issues**: 2,001 · **Contributors**: 368
+- **Stars**: 19,494 · **Forks**: 1,639 · **Open issues**: 2,001 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3712 · **Open PRs**: 23 · **Closed issues**: 1907 · **Open issues**: 94 · **Commits**: 4287
+- **Releases**: 194 · **Merged PRs**: 3715 · **Open PRs**: 25 · **Closed issues**: 1907 · **Open issues**: 94 · **Commits**: 4290
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 32 | 2 | 9 | 0 | 29 |
-| last60d | 2026-09-02 | 2 | 72 | 2 | 25 | 1 | 73 |
-| 90d | 2026-08-03 | 5 | 124 | 2 | 47 | 1 | 128 |
-| last180d | 2026-05-05 | 6 | 202 | 2 | 68 | 3 | 205 |
-| 360d | 2025-11-06 | 21 | 414 | 5 | 157 | 11 | 446 |
-| last720d | 2024-11-11 | 53 | 1083 | 7 | 327 | 17 | 1185 |
+| 30d | 2026-10-03 | 1 | 33 | 4 | 9 | 0 | 32 |
+| last60d | 2026-09-03 | 2 | 75 | 4 | 24 | 1 | 76 |
+| 90d | 2026-08-04 | 5 | 126 | 4 | 47 | 1 | 131 |
+| last180d | 2026-05-06 | 6 | 203 | 4 | 67 | 3 | 208 |
+| 360d | 2025-11-07 | 21 | 416 | 7 | 156 | 11 | 449 |
+| last720d | 2024-11-12 | 53 | 1086 | 9 | 327 | 17 | 1185 |
 
 ## Release assets
 
@@ -150,12 +150,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **81** distros on [repology.org](https://repology.org/project/golangci-lint). **16** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+Reported by **79** distros on [repology.org](https://repology.org/project/golangci-lint). **16** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.15.0` | ✅ latest |
-| Homebrew | `2.15.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.12.2` | ⚠️ outdated |
 | Nix unstable | `2.15.0` | ✅ latest |
 | Void | `2.15.0` | ✅ latest |
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:00:35Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:09:06Z._
