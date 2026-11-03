@@ -1,21 +1,3 @@
-- repo: arch
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
-- repo: homebrew
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast linters runner for Go
 - repo: alpine_3_19
   subrepo: community
   srcname: golangci-lint
@@ -92,6 +74,17 @@
   summary: Bash completions for golangci-lint
   maintainers:
     - folliekazetani@protonmail.com
+  licenses:
+    - GPL-3.0-or-later
+- repo: chimera
+  subrepo: user
+  srcname: golangci-lint
+  binname: golangci-lint-fishcomp
+  visiblename: golangci-lint-fishcomp
+  version: 2.10.1
+  origversion: 2.10.1-r6
+  status: outdated
+  summary: Linters runner for Go (fish completions)
   licenses:
     - GPL-3.0-or-later
 - repo: alpine_3_20
@@ -185,18 +178,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: aur
-  srcname: golangci-lint-bin
-  binname: golangci-lint-bin
-  visiblename: golangci-lint-bin
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go.
-  maintainers:
-    - ldez@aur
-  licenses:
-    - GPL-3.0
 - repo: alpine_3_22
   subrepo: community
   srcname: golangci-lint
@@ -424,6 +405,36 @@
     - GPL-3.0
   categories:
     - Development/Tools
+- repo: homebrew
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast linters runner for Go
+- repo: arch
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
+- repo: aur
+  srcname: golangci-lint-bin
+  binname: golangci-lint-bin
+  visiblename: golangci-lint-bin
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go.
+  maintainers:
+    - ldez@aur
+  licenses:
+    - GPL-3.0
 - repo: aur
   srcname: golangci-lint-v1-bin
   binname: golangci-lint-v1-bin
@@ -456,17 +467,6 @@
   origversion: 2.10.1-r6
   status: outdated
   summary: Linters runner for Go (bash completions)
-  licenses:
-    - GPL-3.0-or-later
-- repo: chimera
-  subrepo: user
-  srcname: golangci-lint
-  binname: golangci-lint-fishcomp
-  visiblename: golangci-lint-fishcomp
-  version: 2.10.1
-  origversion: 2.10.1-r6
-  status: outdated
-  summary: Linters runner for Go (fish completions)
   licenses:
     - GPL-3.0-or-later
 - repo: chimera
@@ -595,6 +595,18 @@
     - dutra@freebsd.org
   categories:
     - devel
+- repo: nix_stable_25_05
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.1.6
+  origversion: null
+  status: outdated
+  summary: Fast linters Runner for Go
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - joerg@thalheim.io
+  licenses:
+    - GPL-3.0-or-later
 - repo: gentoo
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -721,6 +733,18 @@
     - MPL-2.0
   categories:
     - dev-go
+- repo: nix_stable_25_11
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.6.2
+  origversion: null
+  status: outdated
+  summary: Fast linters Runner for Go
+  maintainers:
+    - sandro.jaeckel@gmail.com
+    - joerg@thalheim.io
+  licenses:
+    - GPL-3.0-or-later
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -877,34 +901,10 @@
     - joerg@thalheim.io
   licenses:
     - GPL-3.0-or-later
-- repo: nix_stable_25_05
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.1.6
-  origversion: null
-  status: outdated
-  summary: Fast linters Runner for Go
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - joerg@thalheim.io
-  licenses:
-    - GPL-3.0-or-later
-- repo: nix_stable_25_11
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.6.2
-  origversion: null
-  status: outdated
-  summary: Fast linters Runner for Go
-  maintainers:
-    - sandro.jaeckel@gmail.com
-    - joerg@thalheim.io
-  licenses:
-    - GPL-3.0-or-later
 - repo: nix_stable_26_05
   srcname: golangci-lint
   visiblename: golangci-lint
-  version: 2.12.2
+  version: 2.14.0
   origversion: null
   status: outdated
   summary: Fast linters Runner for Go
