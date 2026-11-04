@@ -26,7 +26,7 @@ Total: **223,194** lines of code across **1688** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **7.6 / 10**
+Overall score: **7.5 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,495 · **Forks**: 1,639 · **Open issues**: 2,002 · **Contributors**: 368
+- **Stars**: 19,500 · **Forks**: 1,639 · **Open issues**: 2,002 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3716 · **Open PRs**: 24 · **Closed issues**: 1908 · **Open issues**: 94 · **Commits**: 4291
+- **Releases**: 194 · **Merged PRs**: 3718 · **Open PRs**: 24 · **Closed issues**: 1908 · **Open issues**: 94 · **Commits**: 4293
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 34 | 3 | 10 | 0 | 33 |
-| last60d | 2026-09-04 | 2 | 71 | 3 | 25 | 1 | 77 |
-| 90d | 2026-08-05 | 5 | 127 | 3 | 46 | 1 | 132 |
-| last180d | 2026-05-07 | 5 | 200 | 3 | 65 | 3 | 209 |
-| 360d | 2025-11-08 | 21 | 417 | 6 | 157 | 11 | 450 |
-| last720d | 2024-11-13 | 53 | 1084 | 8 | 328 | 17 | 1186 |
+| 30d | 2026-10-05 | 1 | 36 | 3 | 10 | 0 | 35 |
+| last60d | 2026-09-05 | 2 | 73 | 3 | 25 | 1 | 79 |
+| 90d | 2026-08-06 | 5 | 126 | 3 | 44 | 1 | 134 |
+| last180d | 2026-05-08 | 5 | 202 | 3 | 65 | 3 | 211 |
+| 360d | 2025-11-09 | 21 | 415 | 6 | 157 | 11 | 452 |
+| last720d | 2024-11-14 | 53 | 1086 | 8 | 328 | 17 | 1187 |
 
 ## Release assets
 
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:53:07Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:29:22Z._
