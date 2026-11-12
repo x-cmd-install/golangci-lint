@@ -14,12 +14,12 @@ x install golangci-lint
 
 ## Code insight
 
-Total: **223,194** lines of code across **1688** files in the top 5 languages.
+Total: **223,253** lines of code across **1689** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 155,028 | 0 | 2 | 46 |
-| Go | 55,941 | 5,543 | 12,401 | 1103 |
+| Go | 56,000 | 5,543 | 12,414 | 1104 |
 | Yaml | 8,600 | 499 | 430 | 506 |
 | Svg | 2,326 | 0 | 0 | 9 |
 | Html | 561 | 0 | 112 | 24 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,522 · **Forks**: 1,641 · **Open issues**: 2,008 · **Contributors**: 368
+- **Stars**: 19,524 · **Forks**: 1,641 · **Open issues**: 2,008 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3725 · **Open PRs**: 25 · **Closed issues**: 1912 · **Open issues**: 96 · **Commits**: 4300
+- **Releases**: 194 · **Merged PRs**: 3726 · **Open PRs**: 24 · **Closed issues**: 1912 · **Open issues**: 96 · **Commits**: 4301
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 1 | 26 | 5 | 12 | 2 | 24 |
-| last60d | 2026-09-12 | 2 | 69 | 5 | 29 | 3 | 77 |
-| 90d | 2026-08-13 | 5 | 129 | 5 | 47 | 3 | 138 |
-| last180d | 2026-05-15 | 5 | 201 | 5 | 68 | 5 | 207 |
-| 360d | 2025-11-16 | 20 | 411 | 8 | 160 | 13 | 443 |
-| last720d | 2024-11-21 | 53 | 1082 | 10 | 330 | 19 | 1185 |
+| 30d | 2026-10-13 | 1 | 27 | 4 | 12 | 2 | 25 |
+| last60d | 2026-09-13 | 2 | 68 | 4 | 28 | 3 | 78 |
+| 90d | 2026-08-14 | 5 | 130 | 4 | 46 | 3 | 139 |
+| last180d | 2026-05-16 | 5 | 202 | 4 | 68 | 5 | 208 |
+| 360d | 2025-11-17 | 20 | 411 | 7 | 159 | 13 | 444 |
+| last720d | 2024-11-22 | 53 | 1083 | 9 | 330 | 18 | 1184 |
 
 ## Release assets
 
@@ -155,7 +155,7 @@ Reported by **81** distros on [repology.org](https://repology.org/project/golang
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.15.0` | ✅ latest |
-| Homebrew | `2.15.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.12.2` | ⚠️ outdated |
 | Nix unstable | `2.15.0` | ✅ latest |
 | Void | `2.15.0` | ✅ latest |
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:39:01Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:47:43Z._
