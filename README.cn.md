@@ -26,7 +26,7 @@ x install golangci-lint
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.5 / 10**
+总评分: **7.7 / 10**
 
 评分最低的几项:
 
@@ -48,7 +48,7 @@ x install golangci-lint
 
 ## 流行度
 
-- **Star**: 19,533 · **Fork**: 1,642 · **开放 issue**: 2,008 · **贡献者**: 368
+- **Star**: 19,535 · **Fork**: 1,642 · **开放 issue**: 2,008 · **贡献者**: 368
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install golangci-lint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 29 | 4 | 9 | 1 | 23 |
-| last60d | 2026-09-17 | 2 | 73 | 4 | 27 | 2 | 80 |
-| 90d | 2026-08-18 | 5 | 133 | 4 | 45 | 2 | 118 |
-| last180d | 2026-05-20 | 5 | 204 | 4 | 69 | 4 | 207 |
-| 360d | 2025-11-21 | 20 | 415 | 7 | 158 | 12 | 447 |
-| last720d | 2024-11-26 | 52 | 1080 | 9 | 331 | 17 | 1178 |
+| 30d | 2026-10-18 | 0 | 26 | 4 | 9 | 1 | 23 |
+| last60d | 2026-09-18 | 2 | 73 | 4 | 25 | 2 | 80 |
+| 90d | 2026-08-19 | 5 | 123 | 4 | 44 | 2 | 118 |
+| last180d | 2026-05-21 | 5 | 204 | 4 | 69 | 4 | 207 |
+| 360d | 2025-11-22 | 20 | 414 | 7 | 158 | 12 | 447 |
+| last720d | 2024-11-27 | 52 | 1073 | 9 | 331 | 17 | 1176 |
 
 ## Release 资产
 
@@ -150,12 +150,12 @@ x install golangci-lint
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/golangci-lint) 上共有 **81** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**51** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/golangci-lint) 上共有 **82** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `2.15.0` | ✅ latest |
-| Homebrew | `2.15.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `2.12.2` | ⚠️ outdated |
 | Nix unstable | `2.15.0` | ✅ latest |
 | Void | `2.15.0` | ✅ latest |
@@ -171,4 +171,4 @@ golangci-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T08:19:48Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T09:03:28Z._
