@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-17
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,535 · **Forks**: 1,642 · **Open issues**: 2,008 · **Contributors**: 368
+- **Stars**: 19,545 · **Forks**: 1,641 · **Open issues**: 2,009 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3732 · **Open PRs**: 24 · **Closed issues**: 1913 · **Open issues**: 95 · **Commits**: 4307
+- **Releases**: 194 · **Merged PRs**: 3734 · **Open PRs**: 24 · **Closed issues**: 1914 · **Open issues**: 95 · **Commits**: 4309
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 26 | 4 | 9 | 1 | 23 |
-| last60d | 2026-09-18 | 2 | 73 | 4 | 25 | 2 | 80 |
-| 90d | 2026-08-19 | 5 | 123 | 4 | 44 | 2 | 118 |
-| last180d | 2026-05-21 | 5 | 204 | 4 | 69 | 4 | 207 |
-| 360d | 2025-11-22 | 20 | 414 | 7 | 158 | 12 | 447 |
-| last720d | 2024-11-27 | 52 | 1073 | 9 | 331 | 17 | 1176 |
+| 30d | 2026-10-20 | 0 | 26 | 4 | 10 | 1 | 25 |
+| last60d | 2026-09-20 | 2 | 73 | 4 | 26 | 2 | 82 |
+| 90d | 2026-08-21 | 3 | 114 | 4 | 39 | 2 | 120 |
+| last180d | 2026-05-23 | 5 | 201 | 4 | 70 | 4 | 209 |
+| 360d | 2025-11-24 | 20 | 415 | 7 | 159 | 12 | 449 |
+| last720d | 2024-11-29 | 52 | 1070 | 9 | 332 | 17 | 1170 |
 
 ## Release assets
 
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:03:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:06:14Z._
