@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,548 · **Forks**: 1,641 · **Open issues**: 2,009 · **Contributors**: 368
+- **Stars**: 19,546 · **Forks**: 1,640 · **Open issues**: 2,009 · **Contributors**: 368
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 25 | 4 | 9 | 1 | 25 |
-| last60d | 2026-09-21 | 2 | 72 | 4 | 26 | 2 | 82 |
-| 90d | 2026-08-22 | 3 | 114 | 4 | 39 | 2 | 120 |
-| last180d | 2026-05-24 | 5 | 201 | 4 | 70 | 4 | 209 |
-| 360d | 2025-11-25 | 20 | 415 | 7 | 159 | 12 | 449 |
-| last720d | 2024-11-30 | 52 | 1064 | 9 | 332 | 17 | 1168 |
+| 30d | 2026-10-22 | 0 | 25 | 4 | 8 | 1 | 25 |
+| last60d | 2026-09-22 | 2 | 71 | 4 | 26 | 2 | 82 |
+| 90d | 2026-08-23 | 3 | 113 | 4 | 39 | 2 | 120 |
+| last180d | 2026-05-25 | 5 | 200 | 4 | 70 | 4 | 209 |
+| 360d | 2025-11-26 | 20 | 415 | 7 | 157 | 12 | 449 |
+| last720d | 2024-12-01 | 52 | 1061 | 9 | 331 | 17 | 1161 |
 
 ## Release assets
 
@@ -150,13 +150,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **82** distros on [repology.org](https://repology.org/project/golangci-lint). **17** are ✅ on the latest upstream release, **52** are ⚠️ on an older version.
+Reported by **82** distros on [repology.org](https://repology.org/project/golangci-lint). **18** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `2.15.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `2.12.2` | ⚠️ outdated |
+| Homebrew | `2.15.0` | ✅ latest |
+| Fedora rawhide | `2.15.0` | ✅ latest |
 | Nix unstable | `2.15.0` | ✅ latest |
 | Void | `2.15.0` | ✅ latest |
 | Alpine edge | `2.14.0` | ⚠️ outdated |
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:05:06Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:55:06Z._

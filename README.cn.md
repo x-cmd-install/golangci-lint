@@ -48,7 +48,7 @@ x install golangci-lint
 
 ## 流行度
 
-- **Star**: 19,548 · **Fork**: 1,641 · **开放 issue**: 2,009 · **贡献者**: 368
+- **Star**: 19,546 · **Fork**: 1,640 · **开放 issue**: 2,009 · **贡献者**: 368
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install golangci-lint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 25 | 4 | 9 | 1 | 25 |
-| last60d | 2026-09-21 | 2 | 72 | 4 | 26 | 2 | 82 |
-| 90d | 2026-08-22 | 3 | 114 | 4 | 39 | 2 | 120 |
-| last180d | 2026-05-24 | 5 | 201 | 4 | 70 | 4 | 209 |
-| 360d | 2025-11-25 | 20 | 415 | 7 | 159 | 12 | 449 |
-| last720d | 2024-11-30 | 52 | 1064 | 9 | 332 | 17 | 1168 |
+| 30d | 2026-10-22 | 0 | 25 | 4 | 8 | 1 | 25 |
+| last60d | 2026-09-22 | 2 | 71 | 4 | 26 | 2 | 82 |
+| 90d | 2026-08-23 | 3 | 113 | 4 | 39 | 2 | 120 |
+| last180d | 2026-05-25 | 5 | 200 | 4 | 70 | 4 | 209 |
+| 360d | 2025-11-26 | 20 | 415 | 7 | 157 | 12 | 449 |
+| last720d | 2024-12-01 | 52 | 1061 | 9 | 331 | 17 | 1161 |
 
 ## Release 资产
 
@@ -150,13 +150,13 @@ x install golangci-lint
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/golangci-lint) 上共有 **82** 个发行版报告此项目。**17** 个 ✅ 已是最新上游版本，**52** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/golangci-lint) 上共有 **82** 个发行版报告此项目。**18** 个 ✅ 已是最新上游版本，**51** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
 | Arch | `2.15.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `2.12.2` | ⚠️ outdated |
+| Homebrew | `2.15.0` | ✅ latest |
+| Fedora rawhide | `2.15.0` | ✅ latest |
 | Nix unstable | `2.15.0` | ✅ latest |
 | Void | `2.15.0` | ✅ latest |
 | Alpine edge | `2.14.0` | ⚠️ outdated |
@@ -171,4 +171,4 @@ golangci-lint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261120.yml` · 2026-11-20T09:05:06Z._
+_数据快照: `data/card/261121.yml` · 2026-11-21T07:55:08Z._
