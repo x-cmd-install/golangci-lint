@@ -1,10 +1,3 @@
-- repo: homebrew
-  srcname: golangci-lint
-  visiblename: golangci-lint
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast linters runner for Go
 - repo: alpine_3_19
   subrepo: community
   srcname: golangci-lint
@@ -96,6 +89,13 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
+- repo: wikidata
+  srcname: Q112143959
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: null
+  status: newest
+  summary: Go linters aggregator
 - repo: alpine_3_20
   subrepo: community
   srcname: golangci-lint
@@ -591,12 +591,12 @@
     - golangci-lint-debuginfo
     - golangci-lint-debugsource
   visiblename: golangci-lint
-  version: 2.12.2
-  origversion: 2.12.2-2.fc46
-  status: outdated
+  version: 2.15.0
+  origversion: 2.15.0-2.fc46
+  status: newest
   summary: Fast linters runner for Go
   licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND OFL-1.1 AND Unlicense AND (MIT OR Unlicense)
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND OFL-1.1 AND Sleepycat AND Unlicense AND (MIT OR Unlicense)
   categories:
     - Unspecified
 - repo: freebsd
@@ -632,19 +632,6 @@
     - OFL-1.1
   categories:
     - dev-go
-- repo: liguros_stable
-  srcname: dev-go/golangci-lint
-  visiblename: dev-go/golangci-lint
-  version: 1.56.2
-  origversion: null
-  status: legacy
-  summary: Fast linters runner for Go
-  maintainers:
-    - williamh@gentoo.org
-  licenses:
-    - GPL-3
-  categories:
-    - dev-go
 - repo: gentoo
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -673,6 +660,13 @@
   origversion: null
   status: newest
   summary: Fast linters runner for Go
+- repo: homebrew
+  srcname: golangci-lint
+  visiblename: golangci-lint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast linters runner for Go
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -686,6 +680,17 @@
     - GPL-3
   categories:
     - dev-go
+- repo: parabola
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -786,6 +791,19 @@
     - ISC
     - MIT
     - MPL-2.0
+  categories:
+    - dev-go
+- repo: liguros_stable
+  srcname: dev-go/golangci-lint
+  visiblename: dev-go/golangci-lint
+  version: 1.56.2
+  origversion: null
+  status: legacy
+  summary: Fast linters runner for Go
+  maintainers:
+    - williamh@gentoo.org
+  licenses:
+    - GPL-3
   categories:
     - dev-go
 - repo: liguros_stable
@@ -991,17 +1009,6 @@
     - GPL-3.0-only
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
 - repo: pkgsrc_2026_2
   srcname: devel/golangci-lint
   binname: golangci-lint
@@ -1080,10 +1087,3 @@
     - orphan@voidlinux.org
   licenses:
     - GPL-3.0-only
-- repo: wikidata
-  srcname: Q112143959
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: null
-  status: newest
-  summary: Go linters aggregator
