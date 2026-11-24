@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 19,549 · **Forks**: 1,640 · **Open issues**: 2,009 · **Contributors**: 368
+- **Stars**: 19,551 · **Forks**: 1,641 · **Open issues**: 2,009 · **Contributors**: 368
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 30 | 0 | 8 | 1 | 27 |
-| last60d | 2026-09-24 | 2 | 70 | 0 | 25 | 2 | 68 |
-| 90d | 2026-08-25 | 3 | 115 | 0 | 35 | 2 | 107 |
-| last180d | 2026-05-27 | 5 | 204 | 0 | 70 | 4 | 207 |
-| 360d | 2025-11-28 | 20 | 420 | 3 | 151 | 12 | 447 |
-| last720d | 2024-12-03 | 52 | 1062 | 5 | 331 | 17 | 1157 |
+| 30d | 2026-10-25 | 0 | 27 | 0 | 7 | 1 | 27 |
+| last60d | 2026-09-25 | 1 | 69 | 0 | 21 | 1 | 68 |
+| 90d | 2026-08-26 | 3 | 115 | 0 | 34 | 2 | 107 |
+| last180d | 2026-05-28 | 5 | 204 | 0 | 69 | 4 | 207 |
+| 360d | 2025-11-29 | 20 | 420 | 3 | 151 | 12 | 447 |
+| last720d | 2024-12-04 | 52 | 1062 | 5 | 331 | 17 | 1157 |
 
 ## Release assets
 
@@ -150,7 +150,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **82** distros on [repology.org](https://repology.org/project/golangci-lint). **18** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
+Reported by **82** distros on [repology.org](https://repology.org/project/golangci-lint). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -171,4 +171,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:50:02Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:47:04Z._
