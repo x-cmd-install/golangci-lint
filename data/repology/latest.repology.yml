@@ -89,13 +89,6 @@
     - folliekazetani@protonmail.com
   licenses:
     - GPL-3.0-or-later
-- repo: wikidata
-  srcname: Q112143959
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: null
-  status: newest
-  summary: Go linters aggregator
 - repo: alpine_3_20
   subrepo: community
   srcname: golangci-lint
@@ -520,22 +513,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: updates
-  srcname: golangci-lint
-  binnames:
-    - golangci-lint
-    - golangci-lint-debuginfo
-    - golangci-lint-debugsource
-  visiblename: golangci-lint
-  version: 2.11.3
-  origversion: 2.11.3-1.fc43
-  status: outdated
-  summary: Fast linters runner for Go
-  licenses:
-    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: release
   srcname: golangci-lint
   binnames:
@@ -546,6 +523,22 @@
   version: 2.4.0
   origversion: 2.4.0-1.fc43
   status: legacy
+  summary: Fast linters runner for Go
+  licenses:
+    - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: golangci-lint
+  binnames:
+    - golangci-lint
+    - golangci-lint-debuginfo
+    - golangci-lint-debugsource
+  visiblename: golangci-lint
+  version: 2.11.3
+  origversion: 2.11.3-1.fc43
+  status: outdated
   summary: Fast linters runner for Go
   licenses:
     - Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND GPL-3.0-only AND ISC AND MIT AND MPL-2.0 AND Unlicense AND (MIT OR Unlicense)
@@ -680,17 +673,6 @@
     - GPL-3
   categories:
     - dev-go
-- repo: parabola
-  subrepo: extra
-  srcname: golangci-lint
-  binname: golangci-lint
-  visiblename: golangci-lint
-  version: 2.15.0
-  origversion: 2.15.0-1
-  status: newest
-  summary: Fast linters runner for Go
-  licenses:
-    - GPL-3.0-only
 - repo: liguros_stable
   srcname: dev-go/golangci-lint
   visiblename: dev-go/golangci-lint
@@ -881,9 +863,9 @@
   srcname: golangci-lint
   binname: golangci-lint
   visiblename: golangci-lint
-  version: 2.14.0
-  origversion: 2.14.0-1
-  status: outdated
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
   summary: Fast linters runner for Go
   licenses:
     - GPL-3.0-only
@@ -1009,6 +991,17 @@
     - GPL-3.0-only
   categories:
     - Unspecified
+- repo: parabola
+  subrepo: extra
+  srcname: golangci-lint
+  binname: golangci-lint
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: 2.15.0-1
+  status: newest
+  summary: Fast linters runner for Go
+  licenses:
+    - GPL-3.0-only
 - repo: pkgsrc_2026_2
   srcname: devel/golangci-lint
   binname: golangci-lint
@@ -1087,3 +1080,10 @@
     - orphan@voidlinux.org
   licenses:
     - GPL-3.0-only
+- repo: wikidata
+  srcname: Q112143959
+  visiblename: golangci-lint
+  version: 2.15.0
+  origversion: null
+  status: newest
+  summary: Go linters aggregator
