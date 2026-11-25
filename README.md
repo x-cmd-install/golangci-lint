@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.15.0` (2026-10-16)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-24
 - **Assets in release**: 78
 
 ## Popularity
 
-- **Stars**: 19,551 · **Forks**: 1,641 · **Open issues**: 2,009 · **Contributors**: 368
+- **Stars**: 19,552 · **Forks**: 1,640 · **Open issues**: 2,009 · **Contributors**: 368
 
 ## Totals (cumulative)
 
-- **Releases**: 194 · **Merged PRs**: 3739 · **Open PRs**: 20 · **Closed issues**: 1914 · **Open issues**: 95 · **Commits**: 4314
+- **Releases**: 194 · **Merged PRs**: 3740 · **Open PRs**: 20 · **Closed issues**: 1914 · **Open issues**: 95 · **Commits**: 4315
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 27 | 0 | 7 | 1 | 27 |
-| last60d | 2026-09-25 | 1 | 69 | 0 | 21 | 1 | 68 |
-| 90d | 2026-08-26 | 3 | 115 | 0 | 34 | 2 | 107 |
-| last180d | 2026-05-28 | 5 | 204 | 0 | 69 | 4 | 207 |
-| 360d | 2025-11-29 | 20 | 420 | 3 | 151 | 12 | 447 |
-| last720d | 2024-12-04 | 52 | 1062 | 5 | 331 | 17 | 1157 |
+| 30d | 2026-10-26 | 0 | 28 | 0 | 7 | 1 | 28 |
+| last60d | 2026-09-26 | 1 | 69 | 0 | 21 | 1 | 69 |
+| 90d | 2026-08-27 | 3 | 111 | 0 | 33 | 2 | 108 |
+| last180d | 2026-05-29 | 5 | 205 | 0 | 69 | 4 | 208 |
+| 360d | 2025-11-30 | 20 | 419 | 3 | 151 | 12 | 448 |
+| last720d | 2024-12-05 | 52 | 1061 | 5 | 330 | 17 | 1158 |
 
 ## Release assets
 
@@ -148,20 +148,6 @@ Lowest-scoring checks:
 | [golangci-lint-2.15.0-windows-arm64.zip](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip) | 13.6 MiB | `native/win/arm64` |
 | [golangci-lint-2.15.0-windows-arm64.zip.sbom.json](https://github.com/golangci/golangci-lint/releases/download/v2.15.0/golangci-lint-2.15.0-windows-arm64.zip.sbom.json) | 331.5 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **82** distros on [repology.org](https://repology.org/project/golangci-lint). **19** are ✅ on the latest upstream release, **50** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `2.15.0` | ✅ latest |
-| Homebrew | `2.15.0` | ✅ latest |
-| Fedora rawhide | `2.15.0` | ✅ latest |
-| Nix unstable | `2.15.0` | ✅ latest |
-| Void | `2.15.0` | ✅ latest |
-| Alpine edge | `2.14.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `2.15.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for golangci-lint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `golangci-lint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -171,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:47:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:13:45Z._
