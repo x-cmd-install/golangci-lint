@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 27 | 0 | 7 | 1 | 28 |
-| last60d | 2026-09-27 | 1 | 68 | 0 | 21 | 1 | 69 |
-| 90d | 2026-08-28 | 2 | 104 | 0 | 33 | 2 | 108 |
-| last180d | 2026-05-30 | 5 | 205 | 0 | 69 | 4 | 208 |
-| 360d | 2025-12-01 | 20 | 419 | 3 | 149 | 12 | 448 |
-| last720d | 2024-12-06 | 52 | 1054 | 5 | 330 | 17 | 1157 |
+| 30d | 2026-10-28 | 0 | 27 | 0 | 7 | 1 | 28 |
+| last60d | 2026-09-28 | 1 | 66 | 0 | 20 | 1 | 69 |
+| 90d | 2026-08-29 | 2 | 104 | 0 | 33 | 2 | 108 |
+| last180d | 2026-05-31 | 5 | 201 | 0 | 69 | 4 | 208 |
+| 360d | 2025-12-02 | 20 | 417 | 3 | 148 | 12 | 448 |
+| last720d | 2024-12-07 | 52 | 1052 | 5 | 330 | 17 | 1149 |
 
 ## Release assets
 
@@ -157,4 +157,4 @@ Install metadata for golangci-lint lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:08:02Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:14:16Z._
